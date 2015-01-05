@@ -35,7 +35,8 @@ ARTICLE_SAVE_AS = 'articles/{date:%Y}/{slug}.html'
 ARTICLE_URL = 'articles/{date:%Y}/{slug}.html'
 DEFAULT_DATE = 'fs'
 TYPOGRIFY = True
-THEME = 'themes/bootstrap'
+THEME = 'themes/bootstrap' 
+#THEME = 'themes/pelican-bootstrap3' #for testing Jan 5
 BOOTSTRAP_THEME = 'yeti' #others available 'cosmo' etc. all included already. See http://bootswatch.com/
 #SITELOGO = 'images/my_site_logo.png'
 
