@@ -107,8 +107,8 @@ github: publish
 	#ghp-import copies the output directory to the 'gh-pages' branch of the repository
 	ghp-import -m "Publishing Pelican site to GitHub" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	#git push <remote-name> <local-branch-name>:<remote-branch-name>
-	#first, create a remote called 'publish'
-	git push publish gh-pages:master
+	#first, create a remote called 'html'
+	git push html gh-pages:master
 	#samples:
 	#git push git@github.com:elemoine/elemoine.github.io.git gh-pages:master
 	#git push origin $(GITHUB_PAGES_BRANCH)
