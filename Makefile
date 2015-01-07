@@ -7,6 +7,7 @@ INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
+PORT=8000
 
 FTP_HOST=localhost
 FTP_USER=anonymous
@@ -82,7 +83,7 @@ stopserver:
 	kill -9 `cat srv.pid`
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
-publish:
+Xpublish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
 ssh_upload: publish
@@ -103,9 +104,13 @@ s3_upload: publish
 cf_upload: publish
 	cd $(OUTPUTDIR) && swift -v -A https://auth.api.rackspacecloud.com/v1.0 -U $(CLOUDFILES_USERNAME) -K $(CLOUDFILES_API_KEY) upload -c $(CLOUDFILES_CONTAINER) .
 
-github: publish
+gh-pages:
+	#moves content of the output directory to the 'gh-pages' branch
+	ghp-import -m "Published html output to gh-pages branch" -b gh-pages output
+
+github:
 	#ghp-import copies the output directory to the 'gh-pages' branch of the repository
-	gghp-import -m "Published html output to gh-pages branch" -b gh-pages output
+	#ghp-import -m "Published html output to gh-pages branch" -b gh-pages output
 	#git push <remote-name> <local-branch-name>:<remote-branch-name>
 	#first, create a remote called 'html'
 	git push origin master:master
