@@ -21,15 +21,15 @@ PATH = 'content'
 ARTICLE_PATHS = ['articles/blog', 'articles/components', 'articles/devices', 'articles/ideas', 'articles/team']
 USE_FOLDER_AS_CATEGORY = True
 DISPLAY_CATEGORIES_ON_MENU = True
-#FAVICON = 'images/favicon.png'
+FAVICON = 'images/favicon.ico'
 #SITELOGO = 'images/my_site_logo.png'
 
 #static content = 'pages'
-STATIC_PATHS = ['pages', 'pdfs', 'images', 'extra/favicon.ico'] # 'downloads']
+STATIC_PATHS = ['pages', 'pdfs', 'images'] # 'downloads']
 
-EXTRA_PATH_METADATA = {
-    'extra/favicon.ico': {'path': 'favicon.ico'}
-}
+# EXTRA_PATH_METADATA = {
+#     'extra/favicon.ico': {'path': 'favicon.ico'}
+# }
 
 DISPLAY_PAGES_ON_MENU = False
 
