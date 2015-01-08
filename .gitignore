@@ -1,3 +1,4 @@
-cache/*
-*pid
-*html
+cache/
+output/
+*.pid
+*.html
