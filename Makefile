@@ -33,28 +33,7 @@ ifeq ($(DEBUG), 1)
 	PELICANOPTS += -D
 endif
 
-help:
-	@echo 'Makefile for a pelican Web site                                        '
-	@echo '                                                                       '
-	@echo 'Usage:                                                                 '
-	@echo '   make html                        (re)generate the web site          '
-	@echo '   make clean                       remove the generated files         '
-	@echo '   make regenerate                  regenerate files upon modification '
-	@echo '   make publish                     generate using production settings '
-	@echo '   make serve [PORT=8000]           serve site at http://localhost:8000'
-	@echo '   make devserver [PORT=8000]       start/restart develop_server.sh    '
-	@echo '   make stopserver                  stop local server                  '
-	@echo '   make ssh_upload                  upload the web site via SSH        '
-	@echo '   make rsync_upload                upload the web site via rsync+ssh  '
-	@echo '   make dropbox_upload              upload the web site via Dropbox    '
-	@echo '   make ftp_upload                  upload the web site via FTP        '
-	@echo '   make s3_upload                   upload the web site via S3         '
-	@echo '   make cf_upload                   upload the web site via Cloud Files'
-	@echo '   make github                      upload the web site via gh-pages   '
-	@echo '                                                                       '
-	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html'
-	@echo '                                                                       '
-
+#-----------------------------------------------------------#
 html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
@@ -63,6 +42,26 @@ clean:
 
 regenerate:
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
+
+#-----------------------------------------------------------#
+pullSource:
+	#pulls the website source from GitHub
+	git pull origin master:master
+
+pushSource:
+	#pushes the website source to GitHub
+	git push origin master:master
+
+pushHtml:
+	#moves content of the output directory to the 'gh-pages' branch
+	ghp-import -m "Published html output to gh-pages branch" -b gh-pages output
+
+	#git push <remote-name> <local-branch-name>:<remote-branch-name>
+	git push https://github.com/MGDS-PET/mgds-pet.github.io.git gh-pages:master
+	
+	#other samples:
+	#git push git@github.com:elemoine/elemoine.github.io.git gh-pages:master
+	#git push origin $(GITHUB_PAGES_BRANCH)
 
 serve:
 ifdef PORT
@@ -104,27 +103,27 @@ s3_upload: publish
 cf_upload: publish
 	cd $(OUTPUTDIR) && swift -v -A https://auth.api.rackspacecloud.com/v1.0 -U $(CLOUDFILES_USERNAME) -K $(CLOUDFILES_API_KEY) upload -c $(CLOUDFILES_CONTAINER) .
 
-#############################
-gh-pages:
-	#moves content of the output directory to the 'gh-pages' branch
-	ghp-import -m "Published html output to gh-pages branch" -b gh-pages output
+help:
+	@echo 'Makefile for a pelican Web site                                        '
+	@echo '                                                                       '
+	@echo 'Usage:                                                                 '
+	@echo '   make html                        (re)generate the web site          '
+	@echo '   make clean                       remove the generated files         '
+	@echo '   make regenerate                  regenerate files upon modification '
+	@echo '   make publish                     generate using production settings '
+	@echo '   make serve [PORT=8000]           serve site at http://localhost:8000'
+	@echo '   make devserver [PORT=8000]       start/restart develop_server.sh    '
+	@echo '   make stopserver                  stop local server                  '
+	@echo '   make ssh_upload                  upload the web site via SSH        '
+	@echo '   make rsync_upload                upload the web site via rsync+ssh  '
+	@echo '   make dropbox_upload              upload the web site via Dropbox    '
+	@echo '   make ftp_upload                  upload the web site via FTP        '
+	@echo '   make s3_upload                   upload the web site via S3         '
+	@echo '   make cf_upload                   upload the web site via Cloud Files'
+	@echo '   make github                      upload the web site via gh-pages   '
+	@echo '                                                                       '
+	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html'
+	@echo '                                                                       '
 
-pullSource:
-	#pulls the website source from GitHub
-	git pull origin master:master
-
-pushSource:
-	#pushes the website source to GitHub
-	git push origin master:master
-
-pushHtml:
-	#ghp-import copies the output directory to the 'gh-pages' branch of the repository
-	#ghp-import -m "Published html output to gh-pages branch" -b gh-pages output
-	#git push <remote-name> <local-branch-name>:<remote-branch-name>
-	#first, create a remote called 'html'
-	git push html gh-pages:master
-	#samples:
-	#git push git@github.com:elemoine/elemoine.github.io.git gh-pages:master
-	#git push origin $(GITHUB_PAGES_BRANCH)
 
 .PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github
