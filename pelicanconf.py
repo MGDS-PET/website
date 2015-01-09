@@ -4,13 +4,11 @@ from __future__ import unicode_literals
 
 AUTHOR = u'OCAD University'
 SITENAME = u'MGDS-PET Wearables'
-SITEURL = ''
+#SITEURL = 'https://github.com/MGDS-PET/mgds-pet.github.io'
 TIMEZONE = 'America/Toronto'
 DEFAULT_LANG = u'en'
 #GITHUB_URL = 'http://github.com/ametaireau/'
 PDF_GENERATOR = False
-#for develpoment
-LOAD_CONTENT_CACHE = False
 # custom page generated with a jinja2 template
 #TEMPLATE_PAGES = {'pages/jinja2_template.html': 'jinja2_template.html'}
 #TAGS_SAVE_AS = ''
@@ -22,7 +20,7 @@ ARTICLE_PATHS = ['articles/blog', 'articles/components', 'articles/devices', 'ar
 USE_FOLDER_AS_CATEGORY = True
 DISPLAY_CATEGORIES_ON_MENU = True
 FAVICON = 'images/favicon.ico'
-#SITELOGO = 'images/my_site_logo.png'
+#SITELOGO = 'images/favicon.ico'
 
 #static content = 'pages'
 STATIC_PATHS = ['pages', 'pdfs', 'images'] # 'downloads']
@@ -32,6 +30,8 @@ STATIC_PATHS = ['pages', 'pdfs', 'images'] # 'downloads']
 # }
 
 DISPLAY_PAGES_ON_MENU = False
+DISPLAY_BREADCRUMBS = True
+#DISPLAY_ARTICLE_INFO_ON_INDEX = True
 
 MENUITEMS = [
 #('Home', '/'), #necessary? Redundant
@@ -42,9 +42,10 @@ ARTICLE_URL = 'articles/{date:%Y}/{slug}.html'
 DEFAULT_DATE = 'fs'
 TYPOGRIFY = True
 THEME = 'themes/bootstrap' 
-#THEME = 'themes/pelican-bootstrap3' #for testing Jan 5
 BOOTSTRAP_THEME = 'yeti' #others available 'cosmo' etc. all included already. See http://bootswatch.com/
-
+#BANNER = 'images/bluePlanet.png'
+#BANNER_SUBTITLE = 'Banner subtitle'
+#BANNER_ALL_PAGES = True
 
 DEFAULT_PAGINATION = False
 # Uncomment following line if you want document-relative URLs when developing
@@ -56,7 +57,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
-LOAD_CONTENT_CACHE = False # avoids caching of content
+#LOAD_CONTENT_CACHE = False # avoids caching of content during development
 
 # Social widget
 SOCIAL = (
