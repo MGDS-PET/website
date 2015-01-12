@@ -54,14 +54,10 @@ pushSource:
 
 pushHtml:
 	#moves content of the output directory to the 'gh-pages' branch
-	ghp-import -m "Published html output to gh-pages branch" -b gh-pages output
+	ghp-import -m "Publishing html output to gh-pages branch" -b gh-pages output
 
 	#git push <remote-name> <local-branch-name>:<remote-branch-name>
 	git push -f https://github.com/MGDS-PET/mgds-pet.github.io.git gh-pages:master
-	
-	#other samples:
-	#git push git@github.com:elemoine/elemoine.github.io.git gh-pages:master
-	#git push origin $(GITHUB_PAGES_BRANCH)
 
 serve:
 ifdef PORT

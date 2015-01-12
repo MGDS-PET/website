@@ -8,7 +8,7 @@ SITENAME = u'MGDS-PET Wearables'
 TIMEZONE = 'America/Toronto'
 DEFAULT_LANG = u'en'
 #GITHUB_URL = 'http://github.com/ametaireau/'
-PDF_GENERATOR = False
+
 # custom page generated with a jinja2 template
 #TEMPLATE_PAGES = {'pages/jinja2_template.html': 'jinja2_template.html'}
 #TAGS_SAVE_AS = ''
@@ -21,6 +21,9 @@ USE_FOLDER_AS_CATEGORY = True
 DISPLAY_CATEGORIES_ON_MENU = True
 FAVICON = 'images/favicon.ico'
 #SITELOGO = 'images/favicon.ico'
+PDF_GENERATOR = True
+PLUGIN_PATHS = ["plugins", "/plugins"]
+PLUGINS = ["pdf"] #, "liquid_tags", "sitemap"]
 
 #static content = 'pages'
 STATIC_PATHS = ['pages', 'pdfs', 'images'] # 'downloads']
