@@ -21,23 +21,20 @@ USE_FOLDER_AS_CATEGORY = True
 DISPLAY_CATEGORIES_ON_MENU = True
 FAVICON = 'images/favicon.ico'
 #SITELOGO = 'images/favicon.ico'
-PDF_GENERATOR = True
+PDF_GENERATOR = True #output goes to output/pdf
 PLUGIN_PATHS = ["plugins", "/plugins"]
 PLUGINS = ["pdf"] #, "liquid_tags", "sitemap"]
 
 #static content = 'pages'
-STATIC_PATHS = ['pages', 'pdfs', 'images'] # 'downloads']
-
-# EXTRA_PATH_METADATA = {
-#     'extra/favicon.ico': {'path': 'favicon.ico'}
-# }
+STATIC_PATHS = ['pages', 'pdfs', 'images', 'extra/custom.css'] # 'downloads']
+# Tell Pelican to add 'extra/custom.css' to the output dir
 
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_BREADCRUMBS = True
 #DISPLAY_ARTICLE_INFO_ON_INDEX = True
 
 MENUITEMS = [
-#('Home', '/'), #necessary? Redundant
+#('Home', '/'), #necessary? Home is redundant.
 ]
     
 ARTICLE_SAVE_AS = 'articles/{date:%Y}/{slug}.html'
@@ -46,6 +43,14 @@ DEFAULT_DATE = 'fs'
 TYPOGRIFY = True
 THEME = 'themes/bootstrap' 
 BOOTSTRAP_THEME = 'yeti' #others available 'cosmo' etc. all included already. See http://bootswatch.com/
+CUSTOM_CSS = 'theme/css/custom.css' #the location where you tell Pelican to put the file
+#CUSTOM_CSS = 'static/custom.css'
+
+# Tell Pelican to change the path to 'theme/css/custom.css' in the output dir
+EXTRA_PATH_METADATA = {
+    'extra/custom.css': {'path': 'theme/css/custom.css'}
+}
+ #load this file in addition to the css files in the bootstrap theme
 #BANNER = 'images/bluePlanet.png'
 #BANNER_SUBTITLE = 'Banner subtitle'
 #BANNER_ALL_PAGES = True
