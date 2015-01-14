@@ -1,0 +1,4 @@
+Beads
+===========
+
+:slug: beads
