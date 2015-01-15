@@ -1,8 +1,9 @@
 Team Member Adam
 ###################
 
-:slug: Team Member Adam
-:author: Adam Tindale
+:slug: adam
+:url: pages/team/adam
+:save_as: pages/team/adam.html
 
 All about Adam.
 

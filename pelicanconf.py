@@ -18,6 +18,7 @@ PATH = 'content'
 
 DISPLAY_BREADCRUMBS = True
 #DISPLAY_ARTICLE_INFO_ON_INDEX = True
+DISPLAY_CATEGORY_IN_BREADCRUMBS = True
 
 #dynamic content = 'articles'
 #ARTICLE_PATHS = ['articles/components', 'articles/devices', 'articles/ideas', 'articles/team']
@@ -25,15 +26,8 @@ USE_FOLDER_AS_CATEGORY = True #eg. 'blog'
 DISPLAY_CATEGORIES_ON_MENU = False
 ARTICLE_SAVE_AS = 'articles/{date:%Y}/{slug}.html' #must be same as article_url below
 ARTICLE_URL = 'articles/{date:%Y}/{slug}.html'
-
-MENUITEMS = [
-#('Home', '/'), #not needed
-('Blog', '/category/blog.html'),
-('Components', '/pages/components.html'),
-('Devices', '/pages/devices.html'),
-('Ideas', '/pages/ideas.html'),
-('Team', '/pages/team.html')
-]  
+#SLUGIFY_SOURCE = 'title' #use title field
+#SLUGIFY_SOURCE = 'basename' #use file name
 
 #static content = 'pages'
 STATIC_PATHS = ['pages', 'pdfs', 'images', 'extra/custom.css'] # 'downloads']
@@ -42,8 +36,18 @@ FAVICON = 'images/favicon.ico'
 PAGE_SAVE_AS = 'pages/{slug}.html' #must be same as page_url below
 PAGE_URL = 'pages/{slug}.html' 	#The URL we will use to link to a page.
 
+MENUITEMS = [
+#('Home', '/'), #not needed
+#mixing dynamic and static content in menu:
+('Blog', '/category/blog.html'), #dynamic = articles
+('Components', '/pages/components/components.html'), #static = pages
+('Devices', '/pages/devices/devices.html'),
+('Ideas', '/pages/ideas/ideas.html'),
+('Team', '/pages/team/team.html')
+]  
+
 #SITELOGO = 'images/favicon.ico'
-PDF_GENERATOR = False #output goes to output/pdf
+#PDF_GENERATOR = False #output goes to output/pdf
 PLUGIN_PATHS = ["plugins", "/plugins"]
 #PLUGINS = ["pdf"] #, "liquid_tags", "sitemap"]
 

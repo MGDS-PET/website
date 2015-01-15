@@ -1,8 +1,9 @@
 Team Member Michael
 ###################
 
-:slug: Team Member Michael
-:author: Michael Cumming
+:slug: michael
+:url: pages/team/michael
+:save_as: pages/team/michael.html
 
 All about Michael.
 

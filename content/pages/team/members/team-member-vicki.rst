@@ -1,8 +1,9 @@
 Team Member Vicki
 ###################
 
-:slug: Team Member Vicki
-:author: Michael Cumming
+:slug: vicki
+:url: pages/team/vicki
+:save_as: pages/team/vicki.html
 
 All about Vicki.
 
