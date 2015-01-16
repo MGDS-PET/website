@@ -17,19 +17,6 @@ OCAD University, Toronto
 `Ryan Maksymic`_ |
 `Takis Zourntos`_
 
-Xenophile Media, Toronto
-----------------------------
-
-`Patrick Crowe`_ |
-`Alex Mayhew`_
-
-
-Anhembi Morumbi University & Zuanon Projectos Visuais, S |atilde| o Paulo, Brazil
---------------------------------------------------------------------------------------
-
-`Rachel Zuanon`_
-
-
 .. _Sara Diamond: sara.html
 .. _Adam Tindale: adam.html
 .. _Michael Cumming: michael.html
@@ -37,8 +24,23 @@ Anhembi Morumbi University & Zuanon Projectos Visuais, S |atilde| o Paulo, Brazi
 .. _Vicki Clough: vicki.html
 .. _Ryan Maksymic: ryan.html
 .. _Takis Zourntos: takis.html
+
+
+Xenophile Media, Toronto
+----------------------------
+
+`Patrick Crowe`_ |
+`Alex Mayhew`_
+
 .. _Patrick Crowe: patrick.html
 .. _Alex Mayhew: alex.html
+
+
+Anhembi Morumbi University & Zuanon Projectos Visuais, S |atilde| o Paulo, Brazil
+--------------------------------------------------------------------------------------
+
+`Rachel Zuanon`_
+
 .. _Rachel Zuanon: rachel.html
 
 .. |atilde|   unicode:: U+00E3 .. a tilde

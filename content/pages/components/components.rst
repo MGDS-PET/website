@@ -5,25 +5,50 @@ Components
 :url: pages/components/components
 :save_as: pages/components/components.html
 
-.. comments don't print
+.. comments that don't print
 
 
-Bands_
+Bands
 ----------
-.. _Bands: bands/bands.html
+
+`3D Printed Bands`_ |
+Felt_ |
+Rubber_
+
+.. _3D Printed Bands: bands/3DprintedBands.html
+.. _Felt: bands/felt.html
+.. _Rubber: bands/rubber.html
 
 
-Beads_
+Beads
 --------
-.. _Beads: beads/beads.html
+
+`Molded Resin`_
+
+.. _Molded Resin: beads/moldedResin.html
 
 
-`Cases and Enclosures`_
+Cases and Enclosures
 ----------------------------
-.. _Cases and Enclosures: cases/cases.html
+
+`3D Printed Cases`_
+
+.. _3D Printed Cases: cases/3DprintedCases.html
 
 
-Electronics_
+Electronics
 -------------
-.. _Electronics: electronics/electronics.html
+
+`LightBlue Bean`_ |
+`Arduino Microprocessors`_ |
+`Addressable LEDs`_ |
+`Vibrating Motors`_
+
+.. _LightBlue Bean: electronics/bean.html
+.. _Arduino Microprocessors: electronics/arduino.html
+.. _Addressable LEDs: electronics/led.html
+.. _Vibrating Motors: electronics/vibeMotor.html
+
+
+
 

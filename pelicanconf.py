@@ -39,11 +39,11 @@ PAGE_URL = 'pages/{slug}.html' 	#The URL we will use to link to a page.
 MENUITEMS = [
 #('Home', '/'), #not needed
 #mixing dynamic and static content in menu:
-('Blog', '/category/blog.html'), #dynamic = articles
-('Components', '/pages/components/components.html'), #static = pages
-('Devices', '/pages/devices/devices.html'),
-('Ideas', '/pages/ideas/ideas.html'),
-('Team', '/pages/team/team.html')
+	('Blog', '/category/blog.html'), #dynamic = articles
+	('Components', '/pages/components/components.html'), #static = pages
+	('Devices', '/pages/devices/devices.html'),
+	('Ideas', '/pages/ideas/ideas.html'),
+	('Team', '/pages/team/team.html')
 ]  
 
 #SITELOGO = 'images/favicon.ico'
@@ -55,7 +55,7 @@ DEFAULT_DATE = 'fs'
 TYPOGRIFY = True
 THEME = 'themes/bootstrap' 
 BOOTSTRAP_THEME = 'yeti' #others available 'cosmo' etc. all included already. See http://bootswatch.com/
-CUSTOM_CSS = 'theme/css/custom.css' #the location where you tell Pelican to put the file
+CUSTOM_CSS = 'theme/css/custom.css' #where Pelican should put the custom css file
 
 # Tell Pelican to change the path to 'theme/css/custom.css' in the output dir
 EXTRA_PATH_METADATA = {
