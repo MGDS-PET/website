@@ -1,4 +1,4 @@
-Team Member Adam
+Adam Tindale
 ###################
 
 :slug: adam

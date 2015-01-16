@@ -18,9 +18,9 @@ Beads_
 .. _Beads: beads/beads.html
 
 
-Cases_
-------------------
-.. _Cases: cases/cases.html
+`Cases and Enclosures`_
+----------------------------
+.. _Cases and Enclosures: cases/cases.html
 
 
 Electronics_

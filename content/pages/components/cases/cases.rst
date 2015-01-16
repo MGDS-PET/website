@@ -6,3 +6,8 @@ Cases and enclosures
 :save_as: pages/components/cases/cases.html
 
 components testing...
+
+`3D Printed Enclosures`_
+----------------------------
+.. _3D Printed Enclosures: 3Denclosures.html
+

@@ -1,4 +1,4 @@
-Bands are fun
+Bands
 ==============
 
 :slug: bands
