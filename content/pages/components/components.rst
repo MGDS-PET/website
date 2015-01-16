@@ -28,7 +28,7 @@ Beads
 .. _Molded Resin: beads/moldedResin.html
 
 
-Cases and Enclosures
+Cases & Enclosures
 ----------------------------
 
 `3D Printed Cases`_
