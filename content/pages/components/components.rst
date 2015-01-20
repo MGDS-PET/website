@@ -5,8 +5,22 @@ Components
 :url: pages/components/components
 :save_as: pages/components/components.html
 
-.. comments that don't print
+.. figure:: /images/components/P1130829.jpg
+	:alt: test bead
+	:figwidth: 32 %
+	:align: left
 
+	Caption 1
+
+.. figure:: /images/components/P1130829.jpg
+	:alt: test bead
+	:figwidth: 32 %
+	:align: center
+
+	Caption 2
+
+
+.. comments that don't print
 
 Bands
 ----------
@@ -18,6 +32,8 @@ Rubber_
 .. _3D Printed Bands: bands/3DprintedBands.html
 .. _Felt: bands/felt.html
 .. _Rubber: bands/rubber.html
+	
+.. Resin molded bead with glitter, LED and vibrating motor.
 
 
 Beads
@@ -48,6 +64,8 @@ Electronics
 .. _Arduino Microprocessors: electronics/arduino.html
 .. _Addressable LEDs: electronics/led.html
 .. _Vibrating Motors: electronics/vibeMotor.html
+
+
 
 
 

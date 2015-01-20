@@ -32,7 +32,7 @@ ARTICLE_URL = 'articles/{date:%Y}/{slug}.html'
 #static content = 'pages'
 STATIC_PATHS = ['pages', 'pdfs', 'images', 'extra/custom.css'] # 'downloads']
 DISPLAY_PAGES_ON_MENU = False
-FAVICON = 'images/favicon.ico'
+FAVICON = 'images/_site/favicon.ico'
 PAGE_SAVE_AS = 'pages/{slug}.html' #must be same as page_url below
 PAGE_URL = 'pages/{slug}.html' 	#The URL we will use to link to a page.
 
