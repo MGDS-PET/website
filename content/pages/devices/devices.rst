@@ -5,53 +5,33 @@ Devices
 :url: pages/devices/devices
 :save_as: pages/devices/devices.html
 
-.. comments that don't print
 
-
-Early Rubber Vibrotactile Bracelets
+Early Vibrotactile Bracelets
 -----------------------------------------------
 
-`Early Rubber V1`_ |
-`Early Rubber V2`_
-
-.. _Early Rubber V1: earlyRubber/earlyRubberV1.html
-.. _Early Rubber V2: earlyRubber/earlyRubberV2.html
-
-
-Early Felt Vibrotactile Bracelets
------------------------------------------------
-
-`Early Felt V1`_ |
-`Early Felt V2`_
-
-.. _Early Felt V1: earlyFelt/earlyFeltV1.html
-.. _Early Felt V2: earlyFelt/earlyFeltV2.html
+`Early Rubber`_ |
+`Early Felt`_ |
+`3D Printed`_ |
+Bead_ |
+Fabric_ 
 
 
-3D Printed Vibrotactile Bracelets
-------------------------------------
+.. _Early Rubber: early/earlyRubber.html
+.. _Early Felt: early/earlyFelt.html
+.. _3D Printed: early/3Dprinted.html
+.. _Bead: early/bead.html
+.. _Fabric: early/fabric.html
 
-`3D Printed V1`_ |
-`3D Printed V2`_ |
-`3D Printed V3`_
-
-.. _3D Printed V1: printedBracelets/3DprintedV1.html
-.. _3D Printed V2: printedBracelets/3DprintedV2.html
-.. _3D Printed V3: printedBracelets/3DprintedV3.html
 
 
 Felt and Leather Bluetooth-enabled Bracelets
 -----------------------------------------------------
 
-`Later Felt V1`_ |
-`Later Felt V2`_ |
-`Later Leather V1`_ |
-`Later Leather V2`_
+`Later Felt`_ |
+`Later Leather`_ |
 
-.. _Later Felt V1: later/laterFeltV1.html
-.. _Later Felt V2: later/laterFeltV2.html
-.. _Later Leather V1: later/laterLeatherV1.html
-.. _Later Leather V2: later/laterLeatherV2.html
+.. _Later Felt: later/laterFelt.html
+.. _Later Leather: later/laterLeather.html
 
 
 
