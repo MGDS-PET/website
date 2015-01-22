@@ -16,13 +16,16 @@ DEFAULT_LANG = u'en'
 
 PATH = 'content'
 
-DISPLAY_BREADCRUMBS = True
+DISPLAY_BREADCRUMBS = False #for pages this just shows page title
 #DISPLAY_ARTICLE_INFO_ON_INDEX = True
-DISPLAY_CATEGORY_IN_BREADCRUMBS = True
+DISPLAY_CATEGORY_IN_BREADCRUMBS = False #only works for articles (dynamic content)
+#TAG_CLOUD_STEPS = 4
+#TAG_CLOUD_MAX_ITEMS = 100
+BOOTSTRAP_NAVBAR_INVERSE = False #True -> blue
 
 #dynamic content = 'articles'
 #ARTICLE_PATHS = ['articles/components', 'articles/devices', 'articles/ideas', 'articles/team']
-USE_FOLDER_AS_CATEGORY = True #eg. 'blog'
+USE_FOLDER_AS_CATEGORY = True #eg. 'blog' #only works for articles (dynamic content)
 DISPLAY_CATEGORIES_ON_MENU = False
 ARTICLE_SAVE_AS = 'articles/{date:%Y}/{slug}.html' #must be same as article_url below
 ARTICLE_URL = 'articles/{date:%Y}/{slug}.html'
@@ -42,6 +45,7 @@ MENUITEMS = [
 	('Blog', '/category/blog.html'), #dynamic = articles
 	('Components', '/pages/components/components.html'), #static = pages
 	('Devices', '/pages/devices/devices.html'),
+	('Questions', '/pages/questions/questions.html'),
 	('Ideas', '/pages/ideas/ideas.html'),
 	('Team', '/pages/team/team.html')
 ]  

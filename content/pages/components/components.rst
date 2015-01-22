@@ -4,6 +4,7 @@ Components
 :slug: components
 :url: pages/components/components
 :save_as: pages/components/components.html
+:category: componentsX
 
 .. figure: /images/components/electronics/lightBlueBean-01.jpg
 .. 	:alt: test bead
@@ -15,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Bands
 ----------
-`3D Printed Bands`_ |
+`3D Printed Bands`_ | 
 Felt_ |
 Rubber_ |
 Leather_
