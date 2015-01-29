@@ -1,28 +1,38 @@
-Design & Research Ideas
-=========================================
+
+Ideas
+============
 
 :slug: ideas
 :url: pages/ideas/ideas
 :save_as: pages/ideas/ideas.html
 
+.. contents::
+
 
 Materials Design
 -------------------
-- `Printed 3D bracelets that are flexible but are made of hard plastic`_
-- `Combining well crafted containers to house technical components`_
 
-.. _Printed 3D bracelets that are flexible but are made of hard plastic: flexible3Dbracelets.html
-.. _Combining well crafted containers to house technical components:  craftyContainers.html
+#. Innovative choices of materials
+	- Printed 3D bracelets that are flexible but are made of hard plastic
+	- Combining well crafted containers to house technical components
+
+#. Geometry of bands that provide functionality, flexibility and durability
+	- Printed 3D bracelets that are flexible but are made of hard plastic
+	- Combining well crafted containers to house technical components
+
+#. Beautiful aesthetics and tactile sensations
+	- xx
 
 
 Vibrotactile Patterns
 ----------------------------------------
-- `Creating arrays of vibrating motors to create interesting patterns`_
-- `Using musical notation to activate arrays of vibrating motors`_
 
-.. _Creating arrays of vibrating motors to create interesting patterns: vibeArrays.html
-.. _Using musical notation to activate arrays of vibrating motors: musicalNotation.html
+#. Design of vibrotactile patterns
+	- Creating arrays of vibrating motors to create interesting patterns
+	- Using musical notation to activate arrays of vibrating motors
 
+#. Connecting narrative points and arcs with vibrotactile patterns
+	- xx
 
 Gaming and Hypermedia Interactions
 -------------------------------------

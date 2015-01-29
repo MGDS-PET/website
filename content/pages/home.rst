@@ -1,14 +1,21 @@
-:title: MGDS-PET Wearables
+Mgds-Pet Wearables
+----------------------------------------
+
 :URL: pages
 :save_as: index.html
+:tag: testTag1
+:category: pictures of Hudson
 
 Under Construction...
 
-All about the MGDS-PET Wearables Project. 
+MGDS-PET stands for Multi-platform Game Distribution System for Popular and Experimental Technologies. This NSERC and ISTP funded research addresses the challenge of fully integrating the human body into transmedia game play through variable applications of wearable biometric sensors. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+MGDS-PET combines biometric sensing with wearable technology integrated into a transmedia game engine. While developed for a specific title, our research attempts to generalize into an affordable product meeting the needs of the transmedia industry, which increasingly aims to provide integrated gaming experiences in platform-agnostic technological environments.
 
-.. image:: /images/_site/bluePlanet.png
-	:alt: Blue Planet
-	:align: center
-	:scale: 75 %
+
+.. figure:: /images/_site/hudsonBand.png
+	:alt: felt wearable
+	:align: left
+	:width: 60%
+
+	Early felt Arduino-powered wearable with buttons, vibe motors and LED lights.

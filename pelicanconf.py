@@ -8,20 +8,30 @@ SITENAME = u'MGDS-PET Wearables'
 TIMEZONE = 'America/Toronto'
 DEFAULT_LANG = u'en'
 #GITHUB_URL = 'http://github.com/ametaireau/'
+DOCUTIL_CSS = True
 
 # custom page generated with a jinja2 template
 #TEMPLATE_PAGES = {'pages/jinja2_template.html': 'jinja2_template.html'}
-#TAGS_SAVE_AS = ''
-#TAG_SAVE_AS = ''
 
 PATH = 'content'
 
 DISPLAY_BREADCRUMBS = False #for pages this just shows page title
 #DISPLAY_ARTICLE_INFO_ON_INDEX = True
 DISPLAY_CATEGORY_IN_BREADCRUMBS = False #only works for articles (dynamic content)
-#TAG_CLOUD_STEPS = 4
-#TAG_CLOUD_MAX_ITEMS = 100
-BOOTSTRAP_NAVBAR_INVERSE = False #True -> blue
+
+HIDE_SIDEBAR = True
+
+#TAG_SAVE_AS = ''
+TAGS_SAVE_AS = 'tags.html'
+DISPLAY_TAGS_ON_SIDEBAR = True
+DISPLAY_TAGS_INLINE = True
+TAG_CLOUD_STEPS = 4
+TAG_CLOUD_MAX_ITEMS = 100
+
+DISPLAY_CATEGORIES_ON_SIDEBAR = False
+DISPLAY_RECENT_POSTS_ON_SIDEBAR = False
+
+BOOTSTRAP_NAVBAR_INVERSE = False #True -> becomes blue
 
 #dynamic content = 'articles'
 #ARTICLE_PATHS = ['articles/components', 'articles/devices', 'articles/ideas', 'articles/team']
@@ -83,15 +93,15 @@ AUTHOR_FEED_RSS = None
 #LOAD_CONTENT_CACHE = False # avoids caching of content during development
 
 # Social widget
-SOCIAL = (
-('Google+ Images', '#'),
-('SoundCloud Adam', 'https://soundcloud.com/adamtindale'),
-)
+# SOCIAL = (
+# ('Google+ Images', '#'),
+# ('SoundCloud Adam', 'https://soundcloud.com/adamtindale'),
+# )
 
 # Blogroll
-LINKS = (
-('OCADU University', 'http://www.ocadu.ca/'),
-('DFI@OCADU', 'http://www.ocadu.ca/academics/faculty-of-las-and-sis/digital-futures-initiative.htm'),
-('Adam Tindale', 'adamtindale.com'),
-('Rhizome', 'http://rhizome.org/'),
-)
+# LINKS = (
+# ('OCADU University', 'http://www.ocadu.ca/'),
+# ('DFI@OCADU', 'http://www.ocadu.ca/academics/faculty-of-las-and-sis/digital-futures-initiative.htm'),
+# ('Adam Tindale', 'adamtindale.com'),
+# ('Rhizome', 'http://rhizome.org/'),
+# )

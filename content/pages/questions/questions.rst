@@ -1,20 +1,18 @@
-Research & Design Questions
+
+Research and Design Questions 
 =========================================
 
 :slug: questions
 :url: pages/questions/questions
 :save_as: pages/questions/questions.html
 
+.. contents::
+
 
 NSERC/ISTP Grant
------------------
+-------------------
 
-#. How do you fully integrate the human body into transmedia gameplay through variable applications of biometric sensors?
-	- What does it mean to integrate the body into gameplay?
-	- What is transmedia gameplay?
-	- Which biometric sensors are suitable?
-
-#. According to the grant, what are the main research challenges?
+#. According to the grant, what are the main research challenges in this project?
 	- building wearable game technologies
 	- developing game biometric interfaces
 	- creating a multi-platform game distribution system
@@ -25,26 +23,32 @@ NSERC/ISTP Grant
 
 #. How is TT a 'transmedia' game?
 	- it works works across various media: online, TV, mobile and physical museums
+	- it connects narratives created for different platforms to flow seamlessly together
+	- it encourages consumption of narratives to be 'device-agnostic' while still maintaining an integrated style of story-telling
 
-#. How is the TT app used by vistors at the Art Gallery of Ontario?
-	- Encourages young visitor to find and discover details and fragments from the AGO collection
-	- Constructs narratives that includes these collection elements
-	- Encourages visitors to imagine narratives that are infomed by musuem artifacts
+#. How is the TT app used by visitors to the Art Gallery of Ontario?
+	- Creates theme-based tours and narratives that showcase the AGO collection
+	- Encourages young visitors to find and discover details and fragments from the AGO collection and integrates these fragments into a unified narrative
+	- Encourages visitors to imagine narratives that are informed by museum artifacts
 	- Encourage visitors to notice interesting details of artifacts that they may easily miss during a visit
 
+#. How do you fully integrate the human body into transmedia gameplay through application of biometric sensors?
+	- Sense biometric data, such as wearer's heart rate and galvanic skin response, as they participate in games
+	- Create narrative points of interest, tension and release in the gameplay that correspond to anticipated bodily reactions in the player
+	- Direct narrative flow of the gameplay via reactions from the player as measured by the biometric sensors
 
-Topic 1
+
+Design of device
 ----------------------
 
-- `Can mobile devices be used to support transmedia applications for museums\?`_ 
-- `Can vibrotactile devices provide useful signalling cues for mobile navigation\?`_
-- `Can jewellery components be successfully integrated into technical devices\?`_
-- `Can musical notation be useful for pattern design in vibrotactile devices\?`_
+#. What are the basic use cases for a transmedia mobile device with biometric sensors?
+	- Register user's position and orientation
+	- Register hand and arm movements
+	- Record user's heart rate and changes to their heart rate
+	- Record galvanic skin response
+	- Provide a marker for current position in the smartphone game narrative
 
-.. _Can mobile devices be used to support transmedia applications for museums\?: transmediaSupport.html
-.. _Can vibrotactile devices provide useful signalling cues for mobile navigation\?: vibroSignalling.html
-.. _Can jewellery components be successfully integrated into technical devices\?: jewelTech.html
-.. _Can musical notation be useful for pattern design in vibrotactile devices\?: musicNotation.html
+
 
 
 
