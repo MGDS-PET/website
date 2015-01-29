@@ -5,6 +5,12 @@ Adam Tindale
 :url: pages/team/adam
 :save_as: pages/team/adam.html
 
-All about Adam.
+Lead Researcher
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+.. figure:: /images/_site/bluePlanet.png
+	:alt: adam tindale
+	:figwidth: 100%
+	:align: left
+	:width: 150px
+
+Dr. Adam Tindale is Associate Professor of Human-Computer Interaction in the Digital Futures Initiative at OCAD University. He completed a Bachelor of Music at Queen's University, a Masters of Music Technology at McGill University, and an Interdisciplinary Ph.D. in Music, Computer Science and Electrical Engineering at the University of Victoria. He holds grants from the Canada Council for the Arts, Alberta Foundation of the Arts, Alberta Associate of Colleges and Technical Institutes, and numerous funding awards from the Alberta College of Art + Design. From 2007 - 2012 he was a Permanent Instructor of Interaction Design at the Alberta College of Art + Design, and he served as department head from 2010 - 2012. Adam joined OCADU in 2012.

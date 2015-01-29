@@ -15,9 +15,9 @@ DOCUTIL_CSS = True
 
 PATH = 'content'
 
-DISPLAY_BREADCRUMBS = False #for pages this just shows page title
+DISPLAY_BREADCRUMBS = False # for pages this just shows page title
 #DISPLAY_ARTICLE_INFO_ON_INDEX = True
-DISPLAY_CATEGORY_IN_BREADCRUMBS = False #only works for articles (dynamic content)
+DISPLAY_CATEGORY_IN_BREADCRUMBS = False # only works for articles (dynamic content)
 
 HIDE_SIDEBAR = True
 
@@ -90,7 +90,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
-#LOAD_CONTENT_CACHE = False # avoids caching of content during development
+LOAD_CONTENT_CACHE = False # avoids caching of content during development
 
 # Social widget
 # SOCIAL = (
