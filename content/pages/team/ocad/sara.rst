@@ -7,7 +7,7 @@ Sara Diamond
 
 Scientific Advisory Committee and Facilitator
 
-.. figure:: /images/_site/bluePlanet.png
+.. figure:: /images/site/bluePlanet.png
 	:alt: sara diamond
 	:figwidth: 100%
 	:align: left

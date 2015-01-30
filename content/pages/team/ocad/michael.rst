@@ -7,7 +7,7 @@ Michael Cumming
 
 Post-doctoral Research Fellow 
 
-.. figure:: /images/_site/bluePlanet.png
+.. figure:: /images/site/bluePlanet.png
 	:alt: blue planet placeholder
 	:figwidth: 100%
 	:align: left

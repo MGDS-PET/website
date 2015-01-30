@@ -7,7 +7,7 @@ Takis Zourntos
 
 Masters Research Fellow 
 
-.. figure:: /images/_site/bluePlanet.png
+.. figure:: /images/site/bluePlanet.png
 	:alt: takis zourntos
 	:figwidth: 100%
 	:align: left

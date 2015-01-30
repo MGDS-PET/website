@@ -7,7 +7,7 @@ Shin-you Hou
 
 Undergraduate Research Assistant
 
-.. figure:: /images/_site/bluePlanet.png
+.. figure:: /images/site/bluePlanet.png
 	:alt: shinyou hou
 	:figwidth: 100%
 	:align: left

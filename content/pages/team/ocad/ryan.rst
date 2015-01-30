@@ -5,7 +5,7 @@ Ryan Maksymic
 :url: pages/team/ryan
 :save_as: pages/team/ryan.html
 
-.. figure:: /images/_site/bluePlanet.png
+.. figure:: /images/site/bluePlanet.png
 	:alt: ryan maksymic
 	:figwidth: 100%
 	:align: left

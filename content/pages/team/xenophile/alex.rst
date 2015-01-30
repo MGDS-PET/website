@@ -7,7 +7,7 @@ Alex Mayhew
 
 Interface Designer, Game Integration
 
-.. figure:: /images/_site/bluePlanet.png
+.. figure:: /images/site/bluePlanet.png
 	:alt: alex mayhew
 	:figwidth: 100%
 	:align: left

@@ -7,7 +7,7 @@ Vicki Clough
 
 Grad Research Assistant
 
-.. figure:: /images/_site/bluePlanet.png
+.. figure:: /images/site/bluePlanet.png
 	:alt: vicki clough
 	:figwidth: 100%
 	:align: left
