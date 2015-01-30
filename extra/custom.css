@@ -120,11 +120,12 @@ a, a:hover {
 .entry-content img {
     max-width: 100%;
     height: auto;
+    margin-bottom: 20px; 
 }
 
 .entry-content figcaption, .caption {
     font-size: small;
-    margin-bottom: 2px;
+    margin-bottom: 6px;
 }
 
 .summary img {
@@ -149,14 +150,16 @@ a, a:hover {
 
 figure.floatright, .align-right {
     margin-left: 4px;
+    margin-bottom: 24px;
 }
 
 figure.floatleft, .align-left {
     margin-right: 4px;
+    margin-bottom: 24px;
 }
 
 figure.floatcenter, .align-center {
-    margin-bottom: 11px;
+    margin-bottom: 24px;
 }
 
 .highlighttable pre {

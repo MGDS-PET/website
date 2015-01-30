@@ -12,7 +12,7 @@ OCAD University, Toronto
 `Sara Diamond`_ |
 `Adam Tindale`_ | 
 `Michael Cumming`_ |
-`Shinyou Hou`_ |
+`Shin-you Hou`_ |
 `Vicki Clough`_ |
 `Ryan Maksymic`_ |
 `Takis Zourntos`_
@@ -20,7 +20,7 @@ OCAD University, Toronto
 .. _Sara Diamond: sara.html
 .. _Adam Tindale: adam.html
 .. _Michael Cumming: michael.html
-.. _Shinyou Hou: shinyou.html
+.. _Shin-you Hou: shinyou.html
 .. _Vicki Clough: vicki.html
 .. _Ryan Maksymic: ryan.html
 .. _Takis Zourntos: takis.html

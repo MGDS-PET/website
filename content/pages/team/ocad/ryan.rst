@@ -1,10 +1,16 @@
 Ryan Maksymic
-###################
+--------------------
 
 :slug: ryan
 :url: pages/team/ryan
 :save_as: pages/team/ryan.html
 
-All about Ryan.
+.. figure:: /images/_site/bluePlanet.png
+	:alt: ryan maksymic
+	:figwidth: 100%
+	:align: left
+	:width: 150px
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Ryan Maksymic is a MDes graduate of the Digital Futures program at OCAD University. He previously graduated with a BSc in Electrical Engineering from the University of Alberta. Ryan is interested in creating memorable interactive experiences using electronics. He enjoys helping put on events, recently working with Canadian Music Week and TEDx OCADU. Other interests include record stores, improv comedy, and neckties.
+
+http://www.ryanmaksymic.com/

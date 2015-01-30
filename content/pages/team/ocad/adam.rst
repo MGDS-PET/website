@@ -1,5 +1,5 @@
 Adam Tindale
-###################
+-----------------
 
 :slug: adam
 :url: pages/team/adam

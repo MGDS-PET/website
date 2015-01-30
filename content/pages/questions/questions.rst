@@ -48,6 +48,9 @@ Design of device
 	- Record galvanic skin response
 	- Provide a marker for current position in the smartphone game narrative
 
+#. What are suitable materials for a device of this type?
+	- 
+
 
 
 
