@@ -8,7 +8,7 @@ Michael Cumming
 Post-doctoral Research Fellow 
 
 .. figure:: /images/_site/bluePlanet.png
-	:alt: michael cumming
+	:alt: blue planet placeholder
 	:figwidth: 100%
 	:align: left
 	:width: 150px
