@@ -5,6 +5,11 @@ Team
 :url: pages/team/team
 :save_as: pages/team/team.html
 
+.. figure:: /images/site/OCAD_Logo.png
+	:alt: ocadu logo
+	:figwidth: 100%
+	:width: 75px
+	:align: left
 
 OCAD University, Toronto
 ----------------------------

@@ -5,15 +5,13 @@ Fabric Vibrotactile Devices
 :url: pages/devices/early/fabric
 :save_as: pages/devices/early/fabric.html
 
-.. figure:: /images/devices/early/fabric/P1130871.jpg
+.. image:: /images/devices/early/fabric/P1130871.jpg
 	:alt: fabric device 1
-	:figwidth: 32 %
-	:align: left
+	:width: 25%
 
-.. figure:: /images/devices/early/fabric/P1130871.jpg
+.. image:: /images/devices/early/fabric/P1130871.jpg
 	:alt: fabric device 2
-	:figwidth: 32 %
-	:align: center
+	:width: 25%
 
 
 

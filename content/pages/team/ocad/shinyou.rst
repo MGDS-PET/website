@@ -11,7 +11,7 @@ Undergraduate Research Assistant
 	:alt: shinyou hou
 	:figwidth: 100%
 	:align: left
-	:width: 150px
+	:width: 75px
 
 Shin-you is a materials artist and designer who specializes in metalsmithing and body adornment. He is in the process of finishing an undergraduate degree within OCAD University’s Jewellery/Metalsmithing program. 
 

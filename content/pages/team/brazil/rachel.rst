@@ -11,7 +11,7 @@ Brazilian Project/Research Lead
 	:alt: rachel zuanon
 	:figwidth: 100%
 	:align: left
-	:width: 150px
+	:width: 75px
 
 
 Dr. Zuannon is a researcher and professor in MA Design Program at the University Anhembi Morumbi (UAM). As head of the CNPq research group design, Rachel has been dedicated to research in design and interactive digital television since 2004. She has coordinated research projects for iTV at the Instituto Casablanca de Tecnologia (2004) and MTV Brasil (2005-2006). From 2006 to 2009, Rachel was coordinator of the bachelor program in Digital Design and the graduate program in Hypermedia Design at UAM. She introduced research programs in Design and iTV, Design and Mobile Experience, and Design and Ubiquitous Computing. 

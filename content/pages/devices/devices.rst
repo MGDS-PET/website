@@ -23,15 +23,16 @@ Fabric_
 .. _Fabric: early/fabric.html
 
 
-
 Felt and Leather Bluetooth-enabled Bracelets
 -----------------------------------------------------
 
 `Later Felt`_ |
 `Later Leather`_ |
+`Infinity Band`_
 
 .. _Later Felt: later/laterFelt.html
 .. _Later Leather: later/laterLeather.html
+.. _Infinity Band: later/infinityBand.html
 
 
 
