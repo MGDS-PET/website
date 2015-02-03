@@ -11,7 +11,7 @@ Masters Research Fellow
 	:alt: takis zourntos
 	:figwidth: 100%
 	:align: left
-	:width: 75px
+	:width: 150px
 
 
 Takis Zourntos received the BASc in Engineering Science (Honours Standing) and MASc and PhD degrees in Electrical & Computer Engineering from the University of Toronto in 1993, 1996 and 2003, respectively. From 1998-2001 he was a co-founder of Protolinx Corp., a start-up developing high-speed wireless communications technology. From 2003-2013 he was affiliated with Texas A&M University, most recently conducting research in robotics and power systems as a research faculty member in computer science. Since Sept. 2012, Dr. Zourntos has pursued a full-time Master of Fine Arts degree at OCAD University in Toronto, specializing in Interdisciplinary Art, Media and Design. 

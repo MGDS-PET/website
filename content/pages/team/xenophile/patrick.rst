@@ -11,7 +11,7 @@ Project Lead
 	:alt: adam tindale
 	:figwidth: 100%
 	:align: left
-	:width: 75px
+	:width: 150px
 
 Patrick is the President of Xenophile Media Inc. producing over 30 interactive and television projects since 2001. He is also a credited writer, consultant and educator. 
 

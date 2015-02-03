@@ -14,7 +14,6 @@ felt wearable
 .. figure:: /images/site/hudsonBand.png
 	:alt: hudson band
 	:figwidth: 100%
-	:align: left
-	:width: 300px
+	:width: 25%
 
 	Early felt Arduino-powered wearable with buttons, vibe motors and LED lights.

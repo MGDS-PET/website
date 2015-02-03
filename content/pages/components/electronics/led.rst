@@ -5,14 +5,12 @@ Addressable LEDs
 :url: pages/components/electronics/led
 :save_as: pages/components/electronics/led.html
 
-.. figure:: /images/components/electronics/led/neo-pixel-row.jpg
+.. image:: /images/components/electronics/led/neo-pixel-row.jpg
 	:alt: led 1
-	:figwidth: 32 %
-	:align: left
+	:width: 25%
 
-.. figure:: /images/components/electronics/led/P1130562.JPG
+.. image:: /images/components/electronics/led/P1130562.JPG
 	:alt: led 2
-	:figwidth: 32 %
-	:align: center
+	:width: 25%
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.

@@ -5,14 +5,12 @@ Arduino Microprocessors
 :url: pages/components/electronics/arduino
 :save_as: pages/components/electronics/arduino.html
 
-.. figure:: /images/components/electronics/arduino/P1130879.JPG
+.. image:: /images/components/electronics/arduino/P1130879.JPG
 	:alt: arduino 1
-	:figwidth: 32 %
-	:align: left
+	:width: 25%
 
-.. figure:: /images/components/electronics/arduino/arduinoUno-02.jpg
+.. image:: /images/components/electronics/arduino/arduinoUno-02.jpg
 	:alt: arduino 2
-	:figwidth: 32 %
-	:align: center
+	:width: 25%
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.

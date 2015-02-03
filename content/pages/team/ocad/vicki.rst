@@ -11,7 +11,7 @@ Graduate Research Assistant
 	:alt: vicki clough
 	:figwidth: 100%
 	:align: left
-	:width: 75px
+	:width: 150px
 
 Vicki is a MFA candidate in the Criticism and Curatorial Practice program at OCADU. She is also a Teaching Assistant, Research Fellow, Blogger, Artist and Maker. Previously Vicki served as Curatorial Director for the FIGMENT Project, Toronto. Vicki holds a BDes Textiles (Hons) from Galway-Mayo Institute of Technology, Ireland, where she studied textile design, fabric manipulation and print design.
 

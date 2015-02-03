@@ -5,7 +5,26 @@ Infinity Band
 :url: pages/devices/later/infinityBand
 :save_as: pages/devices/later/infinityBand.html
 
+
 .. contents::
+
+
+.. image:: /images/devices/later/infinityBand/Page_1.jpg
+	:alt: infinity band page 1
+	:width: 25%
+
+.. image:: /images/devices/later/infinityBand/Page_2.jpg
+	:alt: infinity band page 2
+	:width: 25%
+
+.. image:: /images/devices/later/infinityBand/Page_3.jpg
+	:alt: infinity band page 3
+	:width: 25%
+
+.. image:: /images/devices/later/infinityBand/Page_4.jpg
+	:alt: infinity band page 4
+	:width: 25%
+
 
 
 Introduction
@@ -14,21 +33,20 @@ Introduction
 The Infinity Band is a sci-fi wearable toy designed to entertain children whilst encouraging them to
 stay active and fit. 
 
-Worn on the wrist, children engage in a variety of active movements from low to high intensity (both types of exercise are recommended for optimum health and wellbeing
-benefits (provide research)) in order to play a magical collection game. 
+Worn on the wrist, the band enables children to play a magical collection game which also encourages them to engage in a variety of active movements from low to high intensity. [both types of exercise are recommended for optimum health and wellbeing benefits - provide research]. 
 
 Players are able to compete with other players, trade their finds and explore an exciting story-world opened up by their
 collection via an accompanying smart phone app.
 
 The Story
-----------------
+............
 
 The Infinity Band is a ‘future artifact’ created by the Time Keepers to locate and collect past and
 future Time Treasures. These objects have been, or will be, instrumental in shaping the path of
 history. The Infinity Band was stolen from the Time Vault of the Time Agents in 3015, and
-smuggled back to present day once it became apparent that an evil force known as Bugly, was
-intent on the complete destruction to the very fabric of time and space. (this is a shortened
-version of the back story and needs more work).
+smuggled back to the present day once it became apparent that an evil force known as Bugly, was
+intent on the complete destruction to the very fabric of time and space. [this shortened
+version of the back story needs more work]
 
 Use Cases and Functions
 -------------------------------

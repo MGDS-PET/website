@@ -10,7 +10,7 @@ Scientific Advisory Committee and Facilitator
 .. figure:: /images/site/bluePlanet.png
 	:alt: sara diamond
 	:figwidth: 100%
-	:width: 75px
+	:width: 150px
 	:align: left
 
 Dr. Sara Diamond is the President of OCADU in Toronto. Diamond leads OCAD University to retain its traditional strengths in art and design, while transforming the university to become a leader in digital media and design research and curriculum through:

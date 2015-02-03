@@ -5,15 +5,13 @@ Leather Bands
 :url: pages/components/bands/leather
 :save_as: pages/components/bands/leather.html
 
-.. figure:: /images/components/bands/leather/P1140027.JPG
+.. image:: /images/components/bands/leather/P1140027.JPG
 	:alt: leather band 1
-	:figwidth: 32 %
-	:align: left
+	:width: 25%
 
-.. figure:: /images/components/bands/leather/P1140027-001.JPG
+.. image:: /images/components/bands/leather/P1140027-001.JPG
 	:alt: leather band 1
-	:figwidth: 32 %
-	:align: center
+	:width: 25%
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
