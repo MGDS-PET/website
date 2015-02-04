@@ -17,14 +17,6 @@ Infinity Band
 	:alt: infinity band page 2
 	:width: 25%
 
-.. image:: /images/devices/later/infinityBand/Page_3.jpg
-	:alt: infinity band page 3
-	:width: 25%
-
-.. image:: /images/devices/later/infinityBand/Page_4.jpg
-	:alt: infinity band page 4
-	:width: 25%
-
 
 
 Introduction
@@ -48,8 +40,17 @@ smuggled back to the present day once it became apparent that an evil force know
 intent on the complete destruction to the very fabric of time and space. [this shortened
 version of the back story needs more work]
 
+
 Use Cases and Functions
 -------------------------------
+
+.. image:: /images/devices/later/infinityBand/Page_3.jpg
+	:alt: infinity band page 3
+	:width: 25%
+
+.. image:: /images/devices/later/infinityBand/Page_4.jpg
+	:alt: infinity band page 4
+	:width: 25%
 
 The Infinity Band works by translating kinetic energy into Time Energy when activated in the
 correct way. It enables the wearer to reach through time and grab a Time Treasure from the future

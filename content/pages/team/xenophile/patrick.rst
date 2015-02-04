@@ -7,7 +7,7 @@ Patrick Crowe
 
 Project Lead
 
-.. figure:: /images/site/bluePlanet.png
+.. figure:: /images/team/patrick.jpg
 	:alt: adam tindale
 	:figwidth: 100%
 	:align: left

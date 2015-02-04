@@ -7,7 +7,7 @@ Rachel Zuanon
 
 Brazilian Project/Research Lead
 
-.. figure:: /images/site/bluePlanet.png
+.. figure:: /images/team/rachel.jpg
 	:alt: rachel zuanon
 	:figwidth: 100%
 	:align: left

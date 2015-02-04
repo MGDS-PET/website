@@ -7,7 +7,7 @@ Adam Tindale
 
 Lead Researcher
 
-.. figure:: /images/site/bluePlanet.png
+.. figure:: /images/team/adam.jpg
 	:alt: adam tindale
 	:figwidth: 100%
 	:align: left

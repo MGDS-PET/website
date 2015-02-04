@@ -1,16 +1,17 @@
 Molded Clay Beads
-###################
+=======================
 
 :slug: moldedClay
 :url: pages/components/beads/moldedClay
 :save_as: pages/components/beads/moldedClay.html
 
-.. image:: /images/components/beads/moldedClay/P1130841.jpg
-	:alt: molded resin bead 1
-	:width: 25%
 
 .. image:: /images/components/beads/moldedClay/P1130841-002.jpg
 	:alt:  molded clay bead 2
+	:width: 25%
+
+.. image:: /images/components/beads/moldedClay/P1130841.jpg
+	:alt: molded resin bead 1
 	:width: 25%
 
 

@@ -5,7 +5,25 @@ Team
 :url: pages/team/team
 :save_as: pages/team/team.html
 
-.. figure:: /images/site/OCAD_Logo.png
+
+.. figure:: /images/team/xenophileLogo.jpg
+	:alt: ocadu logo
+	:figwidth: 100%
+	:width: 75px
+	:align: left
+
+Xenophile Media, Toronto
+----------------------------
+
+`Patrick Crowe`_ |
+`Alex Mayhew`_
+
+.. _Patrick Crowe: patrick.html
+.. _Alex Mayhew: alex.html
+
+-----------
+
+.. figure:: /images/team/OCAD_Logo.jpg
 	:alt: ocadu logo
 	:figwidth: 100%
 	:width: 75px
@@ -30,16 +48,13 @@ OCAD University, Toronto
 .. _Ryan Maksymic: ryan.html
 .. _Takis Zourntos: takis.html
 
+-----------
 
-Xenophile Media, Toronto
-----------------------------
-
-`Patrick Crowe`_ |
-`Alex Mayhew`_
-
-.. _Patrick Crowe: patrick.html
-.. _Alex Mayhew: alex.html
-
+.. figure:: /images/team/anhembiLogo.jpg
+	:alt: ocadu logo
+	:figwidth: 100%
+	:width: 75px
+	:align: left
 
 Anhembi Morumbi University & Zuanon Projectos Visuais, S |atilde| o Paulo, Brazil
 --------------------------------------------------------------------------------------
@@ -50,6 +65,8 @@ Anhembi Morumbi University & Zuanon Projectos Visuais, S |atilde| o Paulo, Brazi
 
 .. |atilde|   unicode:: U+00E3 .. a tilde
 	:trim:
+
+
 
 
 

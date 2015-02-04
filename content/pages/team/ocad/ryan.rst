@@ -7,7 +7,7 @@ Ryan Maksymic
 
 Graduate Research Assistant
 
-.. figure:: /images/site/bluePlanet.png
+.. figure:: /images/team/ryan.jpg
 	:alt: ryan maksymic
 	:figwidth: 100%
 	:align: left
