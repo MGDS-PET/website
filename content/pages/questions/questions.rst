@@ -8,6 +8,7 @@ Research and Design Questions
 
 .. contents::
 
+------
 
 NSERC/ISTP Grant
 -------------------
@@ -38,6 +39,8 @@ NSERC/ISTP Grant
 	- Direct narrative flow of the gameplay via reactions from the player as measured by the biometric sensors
 
 
+------
+
 Design of device
 ----------------------
 
@@ -49,7 +52,7 @@ Design of device
 	- Provide a marker for current position in the smartphone game narrative
 
 #. What are suitable materials for a device of this type?
-	- 
+	- ADD HERE
 
 
 

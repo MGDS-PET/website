@@ -1,5 +1,5 @@
 Leather Bands
-###################
+=====================
 
 :slug: leather
 :url: pages/components/bands/leather
@@ -14,4 +14,4 @@ Leather Bands
 	:width: 25%
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Leather bands are durable, flexible and relate well with the retro yet futuristic 'steam-punk' styles of the Time Tremors transmedia media property, which provides one of the primary foundations for the MGDS-PET project. Leather also has some inherent qualities such that it can be easily laser-cut and patterned, can be molded to cover various shapes and is comfortable to the touch.

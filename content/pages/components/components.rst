@@ -11,7 +11,7 @@ Components
 .. 	:figwidth: 100 %
 .. 	:align: left
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Components are built from a variety of materials, for a variety of functions. Their was some material experimentation and exploration at the beginning of the project, which tended to decrease as the project developed. What components all have in common is the potential to be part of wrist-worn devices, to be durable and suitable for daily wear, to be beautiful and have interesting aesthetic qualities, and to be able to contain a variety of electronic components. 
 
 
 Bands

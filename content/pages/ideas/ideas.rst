@@ -8,6 +8,7 @@ Ideas
 
 .. contents::
 
+------
 
 Materials Design
 -------------------
@@ -16,13 +17,16 @@ Materials Design
 	- Printed 3D bracelets that are flexible but are made of hard plastic
 	- Combining well crafted containers to house technical components
 
+
 #. Geometry of bands that provide functionality, flexibility and durability
 	- Printed 3D bracelets that are flexible but are made of hard plastic
 	- Combining well crafted containers to house technical components
 
-#. Beautiful aesthetics and tactile sensations
-	- xx
 
+#. Beautiful aesthetics and tactile sensations
+	- ADD HERE
+
+------
 
 Vibrotactile Patterns
 ----------------------------------------
@@ -32,7 +36,7 @@ Vibrotactile Patterns
 	- Using musical notation to activate arrays of vibrating motors
 
 #. Connecting narrative points and arcs with vibrotactile patterns
-	- xx
+	- ADD HERE
 
 Gaming and Hypermedia Interactions
 -------------------------------------

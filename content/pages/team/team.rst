@@ -5,6 +5,7 @@ Team
 :url: pages/team/team
 :save_as: pages/team/team.html
 
+------
 
 .. figure:: /images/team/xenophileLogo.jpg
 	:alt: ocadu logo
@@ -21,7 +22,7 @@ Xenophile Media, Toronto
 .. _Patrick Crowe: patrick.html
 .. _Alex Mayhew: alex.html
 
------------
+------
 
 .. figure:: /images/team/OCAD_Logo.jpg
 	:alt: ocadu logo
@@ -48,7 +49,7 @@ OCAD University, Toronto
 .. _Ryan Maksymic: ryan.html
 .. _Takis Zourntos: takis.html
 
------------
+------
 
 .. figure:: /images/team/anhembiLogo.jpg
 	:alt: ocadu logo
@@ -62,7 +63,6 @@ Anhembi Morumbi University & Zuanon Projectos Visuais, S |atilde| o Paulo, Brazi
 `Rachel Zuanon`_
 
 .. _Rachel Zuanon: rachel.html
-
 .. |atilde|   unicode:: U+00E3 .. a tilde
 	:trim:
 
