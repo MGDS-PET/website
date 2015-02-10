@@ -14,7 +14,7 @@
 	:width: 25%
 
 
-Enclosures printed with a Makerbot Replicator2 3D Printer.
+Enclosures printed with the Makerbot Replicator 2 3D Printer. These cases served to protect electronics and to give designers ideas about the volumetric forms created by various components. 
 
 
 

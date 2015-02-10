@@ -1,5 +1,5 @@
 Arduino Microprocessors
-###########################
+===========================
 
 :slug: arduino
 :url: pages/components/electronics/arduino
@@ -13,4 +13,5 @@ Arduino Microprocessors
 	:alt: arduino 2
 	:width: 25%
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+Arduino is an open-source electronics platform based on easy-to-use hardware and software. It's intended for the inexpensive creation of interactive projects. Arduino-based projects typically sense the environment by receiving inputs from sensors and affect their surroundings by controlling lights, motors and other actuators. `Arduino Home <http://www.arduino.cc/>`_

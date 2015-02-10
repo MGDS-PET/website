@@ -34,7 +34,7 @@ DISPLAY_RECENT_POSTS_ON_SIDEBAR = False
 BOOTSTRAP_NAVBAR_INVERSE = False #True -> becomes blue
 
 #dynamic content = 'articles'
-#ARTICLE_PATHS = ['articles/components', 'articles/devices', 'articles/ideas', 'articles/team']
+ARTICLE_PATHS = ['articles'] #['articles/components', 'articles/devices', 'articles/ideas', 'articles/team']
 USE_FOLDER_AS_CATEGORY = True #eg. 'blog' #only works for articles (dynamic content)
 DISPLAY_CATEGORIES_ON_MENU = False
 ARTICLE_SAVE_AS = 'articles/{date:%Y}/{slug}.html' #must be same as article_url below
@@ -52,7 +52,7 @@ PAGE_URL = 'pages/{slug}.html' 	#The URL we will use to link to a page.
 MENUITEMS = [
 #('Home', '/'), #not needed
 #mixing dynamic and static content in menu:
-	('Blog', '/category/blog.html'), #dynamic = articles
+	# ('Blog', '/category/blog.html'), #dynamic = articles
 	('Components', '/pages/components/components.html'), #static = pages
 	('Devices', '/pages/devices/devices.html'),
 	('Questions', '/pages/questions/questions.html'),
@@ -72,9 +72,13 @@ BOOTSTRAP_THEME = 'yeti' #others available 'cosmo' etc. all included already. Se
 CUSTOM_CSS = 'theme/css/custom.css' #where Pelican should put the custom css file
 
 # Tell Pelican to change the path to 'theme/css/custom.css' in the output dir
+# EXTRA_PATH_METADATA = {
+#     'extra/custom.css': {'path': 'theme/css/custom.css'}
+# }
 EXTRA_PATH_METADATA = {
-    'extra/custom.css': {'path': 'theme/css/custom.css'}
+    '/themes/bootstrap/static/css/custom.css': {'path': 'theme/css/custom.css'}
 }
+
  #load this file in addition to the css files in the bootstrap theme
 #BANNER = 'images/bluePlanet.png'
 #BANNER_SUBTITLE = 'Banner subtitle'

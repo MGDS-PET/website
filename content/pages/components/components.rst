@@ -31,11 +31,11 @@ Leather_
 
 Beads
 ---------------
-`Molded Resin`_ |
-`Molded Clay`_
+`Moulded Resin`_ |
+`Moulded Clay`_
 
-.. _Molded Resin: beads/moldedResin.html
-.. _Molded Clay: beads/moldedClay.html
+.. _Moulded Resin: beads/mouldedResin.html
+.. _Moulded Clay: beads/mouldedClay.html
 
 
 Cases & Enclosures

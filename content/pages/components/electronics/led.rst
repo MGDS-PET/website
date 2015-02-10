@@ -1,5 +1,5 @@
 Addressable LEDs
-###################
+======================
 
 :slug: led
 :url: pages/components/electronics/led
@@ -13,4 +13,5 @@ Addressable LEDs
 	:alt: led 2
 	:width: 25%
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+These are individually-addressable RGB color pixels and use a single-wire control protocol. They require a microcontroller (such as Arduino) and are capable of producing a a wide array of colours at various levels of intensity. 

@@ -1,18 +1,18 @@
-Molded Resin Beads
+Moulded Resin Beads
 =======================
 
 
-:slug: moldedResin
+:slug: mouldedResin
 :url: pages/components/beads/moldedResin
-:save_as: pages/components/beads/moldedResin.html
+:save_as: pages/components/beads/mouldedResin.html
 
-.. image:: /images/components/beads/moldedResin/P1130826.JPG
+.. image:: /images/components/beads/mouldedResin/P1130826.JPG
 	:alt: leather band 1
 	:width: 25%
 
-.. image:: /images/components/beads/moldedResin/P1130854.JPG
+.. image:: /images/components/beads/mouldedResin/P1130854.JPG
 	:alt: leather band 1
 	:width: 25%
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Moulded resin is a verstaile material that is very durable and can expose, yet protect, delicate electronics in a interesting way. However fabrication with resin is involved and may produce toxic fumes. As means of creating fast iterations of formal prototypes it tended to be slow. 

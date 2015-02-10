@@ -1,5 +1,5 @@
 Vibrating Motors & Tactors
-##############################
+=================================
 
 :slug: vibeMotor
 :url: pages/components/electronics/vibeMotor
@@ -13,4 +13,5 @@ Vibrating Motors & Tactors
 	:alt: vibe motor 2
 	:width: 25%
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+These motors vibrate at various intensity and are typically found in smartphones and other devices in which non-visual, or non-disruptive notification is required. Typically, they create their vibration by a small, eccentrically placed mass, rotated by a tiny motor. 

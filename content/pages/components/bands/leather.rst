@@ -14,4 +14,4 @@ Leather Bands
 	:width: 25%
 
 
-Leather bands are durable, flexible and relate well with the retro yet futuristic 'steam-punk' styles of the Time Tremors transmedia media property, which provides one of the primary foundations for the MGDS-PET project. Leather also has some inherent qualities such that it can be easily laser-cut and patterned, can be molded to cover various shapes and is comfortable to the touch.
+Leather bands are durable, flexible and relate well with the retro yet futuristic 'steam-punk' styles of the Time Tremors transmedia media property, which provides one of the primary foundations for the MGDS-PET project. Leather also has some inherent qualities such that it can be easily laser-cut and patterned, can be moulded to cover various shapes and is comfortable to the touch.
