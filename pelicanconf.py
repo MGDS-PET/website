@@ -63,6 +63,8 @@ MENUITEMS = [
 #SITELOGO = 'images/favicon.ico'
 #PDF_GENERATOR = False #output goes to output/pdf
 PLUGIN_PATHS = ["plugins", "/plugins"]
+PLUGINS = [ "plantuml" ] #"sitemap" "gallery" "liquid_tags" "pdf" "sort_tags" "subcategory"
+
 #PLUGINS = ["pdf"] #, "liquid_tags", "sitemap"]
 
 DEFAULT_DATE = 'fs'
