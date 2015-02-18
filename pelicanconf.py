@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'OCAD University'
-SITENAME = u'MGDS-PET Wearables'
+SITENAME = u'MGDS-PET'
 #SITEURL = 'https://github.com/MGDS-PET/mgds-pet.github.io'
 TIMEZONE = 'America/Toronto'
 DEFAULT_LANG = u'en'
@@ -46,22 +46,26 @@ ARTICLE_URL = 'articles/{date:%Y}/{slug}.html'
 STATIC_PATHS = ['pages', 'pdfs', 'images', 'extra/custom.css'] # 'downloads']
 DISPLAY_PAGES_ON_MENU = False
 FAVICON = 'images/_site/favicon.ico'
-PAGE_SAVE_AS = 'pages/{slug}.html' #must be same as page_url below
-PAGE_URL = 'pages/{slug}.html' 	#The URL we will use to link to a page.
+
+#pages are manually set
+# PAGE_SAVE_AS = 'pages/{slug}.html' #must be same as page_url below
+# PAGE_URL = 'pages/{slug}.html' 	#The URL we will use to link to a page.
 
 MENUITEMS = [
 #('Home', '/'), #not needed
 #mixing dynamic and static content in menu:
 	# ('Blog', '/category/blog.html'), #dynamic = articles
-	('Components', '/pages/components/components.html'), #static = pages
-	('Devices', '/pages/devices/devices.html'),
 	('Questions', '/pages/questions/questions.html'),
-	('Ideas', '/pages/ideas/ideas.html'),
+	('Ideas', '/pages/ideas/ideas.html'),	
+	('Devices', '/pages/devices/devices.html'),
+	('Components', '/pages/components/components.html'), #static = pages
+	('Reports', '/pages/reports/reports.html'),
 	('Team', '/pages/team/team.html')
 ]  
 
 #SITELOGO = 'images/favicon.ico'
 #PDF_GENERATOR = False #output goes to output/pdf
+
 PLUGIN_PATHS = ["plugins", "/plugins"]
 PLUGINS = [ "plantuml" ] #"sitemap" "gallery" "liquid_tags" "pdf" "sort_tags" "subcategory"
 

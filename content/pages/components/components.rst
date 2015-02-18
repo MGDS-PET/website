@@ -4,7 +4,6 @@ Components
 :slug: components
 :url: pages/components/components
 :save_as: pages/components/components.html
-:category: componentsX
 
 .. figure: /images/components/electronics/lightBlueBean-01.jpg
 .. 	:alt: test bead

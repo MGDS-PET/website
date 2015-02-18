@@ -1,0 +1,22 @@
+sample-UML-sequence-diagram-1
+
+@startuml
+
+participant User
+
+User -> Xenophile_server: DoWork
+activate Xenophile_server #FFBBBB
+
+Xenophile_server -> Xenophile_server: Internal call
+activate Xenophile_server #DarkSalmon
+
+Xenophile_server -> B: << createRequest >>
+activate B
+
+B --> Xenophile_server: RequestCreated
+deactivate B
+deactivate Xenophile_server
+Xenophile_server -> User: Done
+deactivate Xenophile_server
+    
+@enduml

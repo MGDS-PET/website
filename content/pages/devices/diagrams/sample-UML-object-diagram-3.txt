@@ -1,0 +1,24 @@
+sample-UML-object-diagram-3
+
+@startuml
+
+object Node
+object Idea
+object Question
+object Evidence
+object Source
+object Knowledge
+
+Node <|-- Evidence
+Node <|-- Question
+Node <|-- Idea
+Node o- Source
+
+Evidence -> Question : raises
+Question -> Idea : inspires
+
+Evidence ..> Knowledge : suggests\nexistence of
+Question ..> Knowledge : defines\nlack of
+Idea ..> Knowledge : suggests path\ntowards new
+	
+@enduml

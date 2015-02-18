@@ -1,0 +1,9 @@
+sample-UML-class-diagram-2
+
+@startuml
+
+scale 200 width
+Class01 <|-- Class02
+Class <|-- Subclass
+	
+@enduml
