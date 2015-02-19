@@ -1,0 +1,6 @@
+digraph G {
+	dir=both;
+	Transmedia_User -> Transmedia_Narrative [dir="both", label = "engages"]; 
+	Transmedia_Narrative -> Biometric_Device_Actuator [dir="both", label = "modulates"]; 
+	Transmedia_User -> Biometric_Device_Actuator [dir="both", label = "_measures_stimulates"]
+}
