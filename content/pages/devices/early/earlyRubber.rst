@@ -49,19 +49,19 @@ We were motivated to build these devices to explore the following research quest
 - Can directional information (e.g 'go the left') be transmitted using this means?
 
 
-Use Cases / User stories
+User stories / Use cases
 --------------------------------------------------
 
-User stories pattern: "As a <role>, I want to <goal/desire> so that <benefit occur>"
+Pattern used for composing user stories: "As a <role>, I want to <goal/desire> so that <benefit occur>"
 
 Actor: game player, child aged 7-12
 ..................................................
 
-#. Wear the wrist device
+- Wear the wrist device
 	"As a game player I want to wear the device so I can feel the device's vibrations against my wrist"
 
-#. Recognize a vibrating pattern to help play the game more effectively
-	"As a game player I want the device to provide me guidance to play the game better"
+- Recognize a vibrating pattern to help play the game more effectively
+	"As a game player I want the device to guide me and help me play the game better"
 	Game designer will create vibrational patterns embedded in the game's content, cued to arise at appropriate moments during the game.
 
 

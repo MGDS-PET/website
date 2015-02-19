@@ -54,7 +54,7 @@ FAVICON = 'images/_site/favicon.ico'
 MENUITEMS = [
 #('Home', '/'), #not needed
 #mixing dynamic and static content in menu:
-	# ('Blog', '/category/blog.html'), #dynamic = articles
+	('Blog', '/category/blog.html'), #dynamic = articles
 	('Questions', '/pages/questions/questions.html'),
 	('Ideas', '/pages/ideas/ideas.html'),	
 	('Devices', '/pages/devices/devices.html'),
