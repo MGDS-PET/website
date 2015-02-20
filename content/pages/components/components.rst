@@ -1,5 +1,6 @@
 Components
-=============
+==================================================
+
 
 :slug: components
 :url: pages/components/components
@@ -14,12 +15,15 @@ Components are built from a variety of materials, for a variety of functions. Th
 
 
 Bands
-----------
+--------------------------------------------------
+
+`Conductive Thread`_ | 
 `3D Printed Bands`_ | 
 Felt_ |
 Rubber_ |
 Leather_
 
+.. _Conductive Thread: bands/conductiveThread.html
 .. _3D Printed Bands: bands/3DprintedBands.html
 .. _Felt: bands/felt.html
 .. _Rubber: bands/rubber.html
@@ -29,23 +33,28 @@ Leather_
 
 
 Beads
----------------
-`Moulded Resin`_ |
+--------------------------------------------------
+
+`Early Resin`_ |
+`Later Resin`_ |
 `Moulded Clay`_
 
-.. _Moulded Resin: beads/mouldedResin.html
+.. _Early Resin: beads/earlyResin.html
+.. _Later Resin: beads/laterResin.html
 .. _Moulded Clay: beads/mouldedClay.html
 
 
 Cases & Enclosures
---------------------------
+--------------------------------------------------
+
 `3D Printed Cases`_
 
 .. _3D Printed Cases: cases/3DprintedCases.html
 
 
 Electronics
---------------------
+--------------------------------------------------
+
 `LightBlue Bean`_ |
 `Arduino Microprocessors`_ |
 `Addressable LEDs`_ |

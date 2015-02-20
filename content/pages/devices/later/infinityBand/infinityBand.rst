@@ -5,28 +5,55 @@ Infinity Band
 :url: pages/devices/later/infinityBand
 :save_as: pages/devices/later/infinityBand.html
 
+.. image:: /images/devices/later/infinityBand/P1140028.JPG
+	:alt: infinity band 1
+	:width: 25%
+
+.. image:: /images/devices/later/infinityBand/P1140029.JPG
+	:alt: infinity band 2
+	:width: 25%
+
 .. contents::
 
+.. sectnum::
+	:depth: 3
 
-Introduction
+
+Description
 --------------------------------------------------
 
-
-The Infinity Band is a sci-fi wearable toy designed to entertain children while encouraging them to stay active and fit. 
-
-
-Worn on the wrist, the band enables children to play a magical collection game that encourages them to engage in a variety of active movements from low to high intensity. [both types of exercise are recommended for optimum health benefits - provide research]. 
-
-Players are able to compete with other players, trade their finds and explore an exciting story-world opened up by their collection via an accompanying smart phone app.
+The Infinity Band is a sci-fi wearable toy designed to entertain children while encouraging them to stay active and fit. Worn on the wrist, the band enables children to play a magical collection game that encourages them to engage in a variety of active movements from low to high intensity. [both types of exercise are recommended for optimum health benefits - provide research]. Players are able to compete with other players, trade their finds and explore an exciting story-world opened up by their collection via an accompanying smart phone app.
 
 
 The Story
---------------------------------------------------
+..................................................
 
 The Infinity Band is a 'future artifact' created by the Time Keepers to locate and collect past and future Time Treasures. These objects have been, or will be, instrumental in shaping the path of history. The Infinity Band was stolen from the Time Vault of the Time Agents in 3015, and smuggled back to the present day once it became apparent that an evil force known as Bugly, was intent on the complete destruction to the very fabric of time and space.
 
 
-Use Cases + Functions
+Design and research questions
+--------------------------------------------------
+
+- What is its intended functionality?
+- What are suitable components for its intended functionality?
+- What is the best way of fitting its required electronics components within a robust, wearable case?
+- How can the size of the device be reduced such that is fits onto the wrists of its intended wearers (pre-teen children aged 7-12)?
+- How can the design of the device connect with the style of the transmedia series *Time Tremors*?
+
+Components
+--------------------------------------------------
+
+- 3D printed plastic case
+- Laser-etched leather band
+- LightBlue Bean WiFi enabled microprocessor
+- LED light ring: 12 x WS2812 5050 RGB LED with Integrated Drivers (by NeoPixel)
+- Heart rate (HR) sensor
+- Galvanic skin response (GSR) sensor
+- LiPo battery (600 mAh)
+- LiPo battery charging connector unit
+
+
+Transmedia device functions
 --------------------------------------------------
 
 The Infinity Band works by translating kinetic energy into Time Energy when activated in the correct way. It enables the wearer to reach through time and grab a Time Treasure from the future or past.
@@ -43,7 +70,7 @@ Activity detection uses a combination of a heart rate monitor and pedometer to e
 
 or
 
-The player must reach gold to unlock a Time Treasure. If they have accomplished bronze or silver, then they will be awarded with power ups to use in the Time Tremors Infinity Game.
+The player must reach gold to unlock a Time Treasure. If they have accomplished bronze or silver, then they will be awarded with power ups to use in the *Time Tremors* Infinity Game.
 
 
 Retrieving a Treasure
@@ -64,6 +91,27 @@ Heart Rate
 There is a small hear shape light on the wrist band. When lit up, the player will receive an increased rate of time energy accumulation that goes above 60% to 70% of of their maximum heart rate, the cardio zone (A formula that appropriately estimates maximum heart rate is subtracting a persons age from 220. Although not exact, this formula works for most people in most conditions, player’s age will need to be acquired via app).
 
 It is at this point and beyond that the player will achieve more health benefits such as fat burning. Trading and Treasure Fusing
+
+
+User stories / Use cases
+--------------------------------------------------
+
+**Pattern used for composing user stories**: "As a **<role>**, I want to **<goal/desire>** so that **<benefit occur>**"
+
+Actor: game player, child aged 7-12
+..................................................
+
+
+
+Actor: content creator
+..................................................
+
+
+
+Discussion and results
+--------------------------------------------------
+
+TBC
 
 
 Visual Resources and Inspiration
