@@ -38,7 +38,7 @@ Felt and Leather Bluetooth-enabled Bracelets
 Sample Diagrams
 --------------------------------------------------
 
-
+`Sample Diagrams <sampleDiagrams.html>`_
 
 
 
