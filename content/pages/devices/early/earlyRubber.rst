@@ -30,7 +30,7 @@ One interesting offshoot of this work is that we discovered that it is possible 
 Design and research questions
 --------------------------------------------------
 
-For application in transmedia games, the idea arose early in the project that players would benefit from non-intrusive notifications that vibrating components placed near, or against, the skin could provide. This early band explored how simple vibrating patterns feel against the skin and wrist and whether arrays of vibrating components could convey symbolic information. 
+For application in transmedia games, the idea arose early in the MGDS-PET project that players could benefit from non-intrusive notifications that vibrating components placed near, or against, the skin. This early band explored how simple vibrating patterns feel against the skin and wrist and whether arrays of vibrating components could convey symbolic information. 
 
 We were motivated to build these devices in order to explore the following research questions:
 

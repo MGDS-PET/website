@@ -1,5 +1,6 @@
 Devices
-=============
+==================================================
+
 
 :slug: devices
 :url: pages/devices/devices
