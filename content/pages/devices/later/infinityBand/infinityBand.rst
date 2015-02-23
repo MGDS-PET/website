@@ -148,7 +148,24 @@ Actor: system designer
 Discussion and results
 --------------------------------------------------
 
-Device as a wearable device
+Band as a wearable device
+..................................................
+
+Playing the *Time Tremors* game on the device
+..................................................
+
+Converting sensor data into an aggregate measure of overall physical activity
+...............................................................................
+
+Content creation: treasures and treasure collections
+........................................................
+
+Content creation: achievement levels
+..................................................
+
+System integration: aggregating sensor data
+.................................................
+
 
 
 Visual Resources and Inspiration
@@ -223,7 +240,7 @@ Visual Resources and Inspiration
 	:figwidth: 32%
 
 	Detachable components with interesting stud work.
-
+	
 
 
 Questions

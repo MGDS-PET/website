@@ -36,6 +36,9 @@ Felt and Leather Bluetooth-enabled Bracelets
 .. _Infinity Band: later/infinityBand.html
 
 
+----------------------------
+
+
 Sample Diagrams
 --------------------------------------------------
 
