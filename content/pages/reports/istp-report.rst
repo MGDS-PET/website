@@ -43,7 +43,7 @@ Cover Page and Fact Sheet
 C) R&D Description
 --------------------------------------------------
 
-*Specific details of the project’s direction and goals. A detailed description of the R&D domain and an overall evaluation of the R&D in relation to other R&D being done in the same domain.*
+.. *Specific details of the project’s direction and goals. A detailed description of the R&D domain and an overall evaluation of the R&D in relation to other R&D being done in the same domain.*
 
 Project's Direction and Goals
 ..................................................
@@ -60,14 +60,15 @@ Evaluation of R&D in relation to other R&D in same domain
 D) Key R&D Results
 --------------------------------------------------
 
-*Description of the R&D accomplishments (both major and minor), including an overview of the initial expectations of the project and the eventual outcomes. The knowledge created within the project is provided in the following reports:*
-
-#. the number of products, prototypes, component technologies and enabling technologies created
-#. the number of products, prototypes, component technologies and enabling technologies employed
-#. the number of intellectual properties (licenses or patents), both potential and realized
+.. *Description of the R&D accomplishments (both major and minor), including an overview of the initial expectations of the project and the eventual outcomes. The knowledge created within the project is provided in the following reports:*
+    #. the number of products, prototypes, component technologies and enabling technologies created
+    #. the number of products, prototypes, component technologies and enabling technologies employed
+    #. the number of intellectual properties (licenses or patents), both potential and realized
 
 Initial Expectations for the project
 ..................................................
+
+
 
 
 Eventual Outcomes
@@ -86,10 +87,7 @@ E) Continuation of R&D
 
 .. An indication as to whether or how the project team will continue to work after the project i.e., are the Participants continuing their relationship, are they continuing to invest in the R&D with their own funding, etc.*
 
-The OCADU Team will be continuing their work on the MGDS-PET project until August of 2015 with the continued support of the Natural Sciences and Engineering Research Council of Canada (NSERC). The vibrotactile research was included as a collaborating project with an application by researchers at OCADU to the Canada Foundation for Innovation (CFI).
-
-The Brazilian partnership will continue to develop as hardware, form, material, firmware, and functionality continually improve through co-design and user feedback. 
-
+The OCADU Team will be continuing their work on the MGDS-PET project until August of 2015 with the continued support of the Natural Sciences and Engineering Research Council of Canada (NSERC). The vibrotactile research was included as a collaborating project with an application by researchers at OCADU to the Canada Foundation for Innovation (CFI). The Brazilian partnership with OCADU will continue to develop as hardware, form, material, firmware, and functionality continually improve through co-design and user feedback. 
 
 .. Deliverables
     --------------------------------------------------
