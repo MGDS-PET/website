@@ -18,8 +18,12 @@ Early Felt Vibrotactile Devices
 .. sectnum::
 	:depth: 3
 
+
 Description
 --------------------------------------------------
+
+These devices use felt for their band material. Felt has the advantage of being inexpensive, comfortable to wear next to the skin. 
+
 
 Design and research questions
 --------------------------------------------------

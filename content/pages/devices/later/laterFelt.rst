@@ -1,16 +1,17 @@
 Later Felt Vibrotactile Band
-============================================
+==================================================
+
 
 :slug: laterFelt
 :url: pages/devices/later/laterFelt
 :save_as: pages/devices/later/laterFelt.html
 
-.. image:: /images/devices/early/rubber/P1130386.RW2.jpg
-	:alt: early rubber device 1
+.. image:: /images/devices/later/felt/P1130386.RW2.jpg
+	:alt: later felt device 1
 	:width: 25%
 
-.. image:: /images/devices/early/rubber/P1130396.RW2.jpg
-	:alt: early rubber device 2
+.. image:: /images/devices/later/felt/P1130386.RW2.jpg
+	:alt: later felt device 2
 	:width: 25%
 
 .. contents::

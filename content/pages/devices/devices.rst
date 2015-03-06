@@ -8,7 +8,8 @@ Devices
 
 
 Early Vibrotactile Bracelets
------------------------------------------------
+--------------------------------------------------
+
 
 `Early Rubber`_ |
 `Early Felt`_ |
@@ -25,7 +26,8 @@ Fabric_
 
 
 Felt and Leather Bluetooth-enabled Bracelets
------------------------------------------------------
+--------------------------------------------------
+
 
 `Later Felt`_ |
 `Later Leather`_ |
@@ -36,7 +38,7 @@ Felt and Leather Bluetooth-enabled Bracelets
 .. _Infinity Band: later/infinityBand.html
 
 
-----------------------------
+------
 
 
 Sample Diagrams

@@ -8,26 +8,26 @@ ISTP Report Outline
 
 .. contents::
 
-.. sectnum::
+.. sectnum:
 
 Final Report Outline: the Final Report shall be submitted at the conclusion of the R&D Project. This report will be comprehensive in nature and in the following format:
 
-Cover Page and Fact Sheet
+a. Cover Page and Fact Sheet
 --------------------------------------------------
 
 The cover page followed by a one-page “snap-shot” of key information, such as project name, Participants, “Start and Completion Dates”, etc.
 
-Executive Summary
+b. Executive Summary
 --------------------------------------------------
 
 A summary of the project, suitable for publication as a standalone document, including main objectives, key technical challenges and how they were addressed, and major technical accomplishments.
 
-R&D Description
+c. R&D Description
 --------------------------------------------------
 
 Specific details of the project’s direction and goals. A detailed description of the R&D domain and an overall evaluation of the R&D in relation to other R&D being done in the same domain.
 
-Key R&D Results
+d. Key R&D Results
 --------------------------------------------------
 
 Description of the R&D accomplishments (both major and minor), including an overview of the initial expectations of the project and the eventual outcomes. The knowledge created within the project is provided in the following reports:
@@ -36,12 +36,12 @@ Description of the R&D accomplishments (both major and minor), including an over
 #. the number of products, prototypes, component technologies and enabling technologies employed
 #. the number of intellectual properties (licenses or patents), both potential and realized
 
-Continuation of R&D
+e. Continuation of R&D
 --------------------------------------------------
 
 An indication as to whether or how the project team will continue to work after the project i.e., are the Participants continuing their relationship, are they continuing to invest in the R&D with their own funding, etc.
 
-Deliverables
+f. Deliverables
 --------------------------------------------------
 
 A checklist of the R&D Project deliverables, including: Documentation Listing on electronic media, project reports on electronic media, videos, publications by academics, software, prototypes, presentation materials on electronic media, etc.

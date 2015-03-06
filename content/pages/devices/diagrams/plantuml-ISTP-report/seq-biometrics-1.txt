@@ -1,0 +1,27 @@
+sample-UML-sequence-diagram-1
+
+@startuml
+
+participant Wearable
+
+activate Wearable #FFBBBB
+Wearable -> Wearable: Capture biometric data
+Wearable -> Smartphone_app: Send data
+activate Smartphone_app #FFBBBB
+
+Smartphone_app -> Smartphone_app: Analyze data
+
+Wearable -> Wearable: Capture gestural data
+Wearable -> Smartphone_app: Send data
+Smartphone_app -> Smartphone_app: Analyze data
+
+Smartphone_app -> Xenophile_server: Send summarized data
+activate Xenophile_server #FFBBBB
+Xenophile_server -> Smartphone_app: Send response
+deactivate Xenophile_server
+
+Smartphone_app -> Wearable: Update
+deactivate Smartphone_app
+deactivate Wearable
+
+@enduml

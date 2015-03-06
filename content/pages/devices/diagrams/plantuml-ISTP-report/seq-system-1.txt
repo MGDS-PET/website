@@ -1,0 +1,31 @@
+sample-UML-sequence-diagram-1
+
+@startuml
+
+participant Wearable
+
+activate Wearable #FFBBBB
+Wearable -> Smartphone_app: Data request
+activate Smartphone_app #FFBBBB
+Smartphone_app -> Wearable: Data response
+
+Smartphone_app -> Xenophile_server: Data request
+activate Xenophile_server #FFBBBB
+Xenophile_server -> Smartphone_app: Data response
+
+Xenophile_server -> Xenophile_server: Internal call
+activate Xenophile_server #DarkSalmon
+
+Xenophile_server -> Smartphone_app: CreateRequest
+Smartphone_app --> Xenophile_server: RequestCreated
+deactivate Smartphone_app
+
+deactivate Smartphone_app
+deactivate Xenophile_server
+
+Xenophile_server -> Wearable: Serve user data
+
+deactivate Xenophile_server
+deactivate Wearable
+    
+@enduml
