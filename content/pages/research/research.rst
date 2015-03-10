@@ -1,17 +1,30 @@
 
-Research and Design Questions 
-=========================================
+Research Process
+==================================================
 
-:slug: questions
-:url: pages/questions/questions
-:save_as: pages/questions/questions.html
+:slug: research
+:url: pages/research/research
+:save_as: pages/research/research.html
 
-.. contents::
+
+.. figure:: /images/research/overall-research-process-1.png
+	:alt: devices
+	:figwidth: 100%
+	:width: 40%
+	:align: left
+
+	Overall design and research process that starts with questions.
 
 ------
 
-NSERC/ISTP Grant
--------------------
+.. contents::
+
+Questions 
+--------------------------------------------------
+
+Questions: NSERC/ISTP Grant
+..................................................
+
 
 #. According to the grant, what are the main research challenges in this project?
 	- building wearable game technologies
@@ -39,10 +52,9 @@ NSERC/ISTP Grant
 	- Direct narrative flow of the gameplay via reactions from the player as measured by the biometric sensors
 
 
-------
-
 Design of device
-----------------------
+..................................................
+
 
 #. What are the basic use cases for a transmedia mobile device with biometric sensors?
 	- Register user's position and orientation
@@ -53,6 +65,50 @@ Design of device
 
 #. What are suitable materials for a device of this type?
 	- ADD HERE
+
+
+
+
+Ideas
+--------------------------------------------------
+
+Materials Design
+..................................................
+
+
+#. Innovative choices of materials
+	- Printed 3D bracelets that are flexible but are made of hard plastic
+	- Combining well crafted containers to house technical components
+
+
+#. Geometry of bands that provide functionality, flexibility and durability
+	- Printed 3D bracelets that are flexible but are made of hard plastic
+	- Combining well crafted containers to house technical components
+
+
+#. Beautiful aesthetics and tactile sensations
+	- ADD HERE
+
+
+Vibrotactile Patterns
+..................................................
+
+
+#. Design of vibrotactile patterns
+	- Creating arrays of vibrating motors to create interesting patterns
+	- Using musical notation to activate arrays of vibrating motors
+
+#. Connecting narrative points and arcs with vibrotactile patterns
+	- ADD HERE
+
+Gaming and Hypermedia Interactions
+..................................................
+
+
+
+
+
+
 
 
 

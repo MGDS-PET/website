@@ -6,6 +6,12 @@ Devices
 :url: pages/devices/devices
 :save_as: pages/devices/devices.html
 
+.. figure:: /images/devices/devicesGraph-1.png
+	:alt: devices
+	:figwidth: 100%
+	:width: 50%
+	:align: left
+
 
 Early Vibrotactile Bracelets
 --------------------------------------------------

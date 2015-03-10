@@ -1,15 +1,15 @@
 Components
 ==================================================
 
-
 :slug: components
 :url: pages/components/components
 :save_as: pages/components/components.html
 
-.. figure: /images/components/electronics/lightBlueBean-01.jpg
-.. 	:alt: test bead
-.. 	:figwidth: 100 %
-.. 	:align: left
+.. figure:: /images/components/componentsGraph-1.png
+	:alt: components
+	:figwidth: 100%
+	:width: 40%
+	:align: left
 
 Components are built from a variety of materials, for a variety of functions. Their was some material experimentation and exploration at the beginning of the project, which tended to decrease as the project developed. What components all have in common is the potential to be part of wrist-worn devices, to be durable and suitable for daily wear, to be beautiful and have interesting aesthetic qualities, and to be able to contain a variety of electronic components. 
 
@@ -21,13 +21,17 @@ Bands
 `3D Printed Bands`_ | 
 Felt_ |
 Rubber_ |
-Leather_
+Leather_ |
+`Etched Leather`_ |
+`Laser Cut Leather`_
 
 .. _Conductive Thread: bands/conductiveThread.html
 .. _3D Printed Bands: bands/3DprintedBands.html
 .. _Felt: bands/felt.html
 .. _Rubber: bands/rubber.html
 .. _Leather: bands/leather.html
+.. _Etched Leather: bands/etchedLeather.html
+.. _Laser Cut Leather: bands/laserCutLeather.html
 	
 .. Resin molded bead with glitter, LED and vibrating motor.
 

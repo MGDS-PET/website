@@ -16,7 +16,7 @@ Early Felt Vibrotactile Devices
 .. contents::
 
 .. sectnum::
-	:depth: 3
+	:depth: 2
 
 
 Description

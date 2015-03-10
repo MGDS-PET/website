@@ -1,0 +1,14 @@
+/* Generate in command line:
+dot -Tpng overall-research-process-1.gv -o overall-research-process-1.png */
+
+//rankedDir=LR, 
+//splines=ortho, [nodesep=1]
+
+digraph G  { 
+	graph [rankedDir=LR]
+	node [shape=ellipse] Question Prototype Result Ideas_and_Hypotheses
+
+	Question->Prototype->Result->Question [label="LEADS_TO"]
+	Prototype->Ideas_and_Hypotheses->Question [label="LEADS_TO"]
+	Prototype->Prototype [label="NEXT_ITERATION"]
+}
