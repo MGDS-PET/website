@@ -35,11 +35,11 @@ Felt and Leather Bluetooth-enabled Bracelets
 --------------------------------------------------
 
 
-`Later Felt`_ |
+`New Felt`_ |
 `Later Leather`_ |
 `Infinity Band`_
 
-.. _Later Felt: later/laterFelt.html
+.. _New Felt: later/newFelt.html
 .. _Later Leather: later/laterLeather.html
 .. _Infinity Band: later/infinityBand.html
 

@@ -5,11 +5,11 @@ Etched Leather Bands
 :url: pages/components/bands/etchedLeather
 :save_as: pages/components/bands/etchedLeather.html
 
-.. .. image: /images/components/bands/etchedLeather/P1140027.JPG
-.. 	:alt: leather band 1
-.. 	:width: 25%
+.. image:: /images/components/bands/etchedLeather/etchedLeather-002.jpg
+	:alt: leather band 1
+	:width: 15%
 
-.. .. image: /images/components/bands/etchedLeather/P1140027-001.JPG
+.. .. image: /images/components/bands/etchedLeather/P1140043.JPG
 .. 	:alt: leather band 1
 .. 	:width: 25%
 
@@ -17,7 +17,7 @@ Etched Leather Bands
 Description
 --------------------------------------------------
 
-This new direction was instigated by the need to cleanly house all the electronic components and rapidly produce a prototype. It was decided that a round 3D printed casing with arms to allow for an interchangeable band to slide into place would be created. This casing would house Arduino, battery, wiring, vibrating motor and a neopixel ring and single neopixel array would make up the face of the watch-like design. The band would be etched with Time Tremors inspired glyphs and runes to maintain some brand identity and tie into the aesthetic of the game.
+This new design direction was instigated by the need to cleanly house all the electronic components and rapidly produce a prototype. It was decided that a round 3D printed casing with arms to allow for an interchangeable band to slide into place would be created. This casing would house an Arduino board, battery, wiring, vibrating motor and a NeoPixel ring and single NeoPixel array would make up the face of the watch-like design. The band would be etched with Time Tremors inspired glyphs and runes to maintain brand identity and tie into the aesthetic of the game.
 
 
 Design and Research Questions
@@ -34,7 +34,7 @@ Components
 
 - Laser cut leather band
 - 3D printed electronics casing/module
-- Light blue bean Arduino
+- LightBlue Bean Arduino module
 - Rechargeable LiPo battery
 - Vibrating motor
 - Single NeoPixel LED

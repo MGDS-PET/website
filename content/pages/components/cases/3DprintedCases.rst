@@ -1,5 +1,5 @@
 3D Printed Cases
-=======================
+==================================================
 
 :slug: 3DprintedCases
 :url: pages/components/cases/3DprintedCases
@@ -13,8 +13,26 @@
 	:alt:  3D printed case 2
 	:width: 25%
 
+Description
+--------------------------------------------------
 
-Enclosures printed with the Makerbot Replicator 2 3D Printer. These cases served to protect electronics and to give designers ideas about the volumetric forms created by various components. 
+Enclosures printed with the MakerBot Replicator 2 3D Printer. These cases served to protect electronics and to give designers ideas about the volumetric forms created by various components. 
 
+Design and Research Questions
+--------------------------------------------------
+
+- What forms are most appropriate for housing electronic components?
+- How can parameterized CAD models be created that allow easy design refinement and iteration?
+- It is possible to have both organic form and parametrization of dimension?
+- Do simple geometric forms lend themselves to the housing of electronic components?
+
+
+Components
+--------------------------------------------------
+
+- 3D printed PLA hard plastic material
+
+Discussion
+--------------------------------------------------
 
 

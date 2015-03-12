@@ -1,24 +1,25 @@
 
-Research and Design Questions 
-=========================================
+Research Questions
+==================================================
 
 :slug: questions
-:url: pages/questions/questions
-:save_as: pages/questions/questions.html
+:url: pages/research/questions
+:save_as: pages/research/questions.html
 
 
-.. figure:: /images/questions/overall-research-process-1.png
-	:alt: devices
-	:figwidth: 100%
-	:width: 40%
-	:align: left
+.. .. figure: /images/research/questions-1.png
+.. 	:alt: questions
+.. 	:figwidth: 100%
+.. 	:width: 40%
+.. 	:align: left
 
-	Overall design and research process that starts with questions.
 
-.. contents::
+Questions 
+--------------------------------------------------
 
-NSERC/ISTP Grant
--------------------
+Questions: NSERC/ISTP Grant
+..................................................
+
 
 #. According to the grant, what are the main research challenges in this project?
 	- building wearable game technologies
@@ -46,10 +47,8 @@ NSERC/ISTP Grant
 	- Direct narrative flow of the gameplay via reactions from the player as measured by the biometric sensors
 
 
-------
-
 Design of device
-----------------------
+..................................................
 
 #. What are the basic use cases for a transmedia mobile device with biometric sensors?
 	- Register user's position and orientation
@@ -60,12 +59,4 @@ Design of device
 
 #. What are suitable materials for a device of this type?
 	- ADD HERE
-
-
-
-
-
-
-
-
 

@@ -17,15 +17,26 @@ Components are built from a variety of materials, for a variety of functions. Th
 Bands
 --------------------------------------------------
 
-`Conductive Thread`_ | 
-`3D Printed Bands`_ | 
-Felt_ |
+**Early Band Designs:** 
 Rubber_ |
+Felt_ |
+`3D Printed Bands`_ 
+
+
+**Bands using Conductive Materials:**
+`Conductive Thread`_ | 
+`Conductive Thread with 3D components`_ |
+`Conductive Fabric`_ 
+
+
+**Leather Bands:**
 Leather_ |
 `Etched Leather`_ |
 `Laser Cut Leather`_
 
 .. _Conductive Thread: bands/conductiveThread.html
+.. _Conductive Thread with 3D components: bands/conductiveThread3D.html
+.. _Conductive Fabric: bands/conductiveFabric.html
 .. _3D Printed Bands: bands/3DprintedBands.html
 .. _Felt: bands/felt.html
 .. _Rubber: bands/rubber.html
