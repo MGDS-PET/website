@@ -1,0 +1,28 @@
+/* Generate in command line:
+fdp -Tpng team-1.gv -o team-1.png */
+
+//rankedDir=LR, 
+//splines=ortho, 
+
+digraph G  {
+	graph [nodesep=0.1]
+	graph [outputorder=nodesFirst]
+
+	node [shape=ellipse] Team
+	
+	subgraph cluster_2 {
+		node [shape=ellipse] OCAD_Univ Xenophile_Media
+		label="Canada"
+	}
+
+	subgraph cluster_1 {
+		node [shape=ellipse] Zuanon_PV Anh_Morumbi_Univ
+		label="Brazil"
+	}
+
+	Team->Xenophile_Media
+	Team->OCAD_Univ
+	Team->Anh_Morumbi_Univ
+	Team->Zuanon_PV
+
+}

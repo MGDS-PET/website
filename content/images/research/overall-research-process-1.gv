@@ -6,9 +6,11 @@ dot -Tpng overall-research-process-1.gv -o overall-research-process-1.png */
 
 digraph G  { 
 	graph [rankedDir=LR]
-	node [shape=ellipse] Question Prototype Result Ideas_and_Hypotheses
+	node [shape=ellipse]
 
-	Question->Prototype->Result->Question [label="LEADS_TO"]
-	Prototype->Ideas_and_Hypotheses->Question [label="LEADS_TO"]
-	Prototype->Prototype [label="NEXT_ITERATION"]
+	Question->Prototype [label=" leads to"]
+	Prototype->Prototype [label=" next iteration"]
+	Prototype->{Answer Idea} [label=" leads to"]
+	Answer->Question
+	Idea->Question
 }

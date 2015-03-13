@@ -33,7 +33,7 @@ Design and Research Questions
 Components
 --------------------------------------------------
 
-- Leather (approx. 2mm thick)
+- Leather (approx. 1.5mm thick)
 
 Discussion
 --------------------------------------------------

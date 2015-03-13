@@ -22,9 +22,9 @@ Design and Research Questions
 --------------------------------------------------
 
 - What forms are most appropriate for housing electronic components?
+- Are simple geometric forms more appropriate than organic forms for this purpose?
 - How can parameterized CAD models be created that allow easy design refinement and iteration?
-- It is possible to have both organic form and parametrization of dimension?
-- Do simple geometric forms lend themselves to the housing of electronic components?
+- It is possible to have both organic form and parametrization of dimensions?
 
 
 Components
@@ -35,4 +35,4 @@ Components
 Discussion
 --------------------------------------------------
 
-
+Simple geometric shapes tend to be easier to parameterize compared to more organic shapes. Geometric shapes are not always stylistically appropriate for some devices. For instance, with devices suitable for the Time Tremors game, a 'semi Steam Punk aesthetic' may be called for. This style tends to have many layered elements that is difficult to parameterize initially. That is, with a complex design with many possibly organic elements, it is difficult to specify which dimensions should be parameterized before the overall design concept is worked out. Once a design shape has gone through many iterations then it is easier to set exact parameters, such as the depth of the internal cavity or the casing thickness such that the device is both robust and uses minimal material. 

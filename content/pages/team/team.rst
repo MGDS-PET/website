@@ -1,20 +1,27 @@
 Team
-================
+==================================================
+
 
 :slug: team
 :url: pages/team/team
 :save_as: pages/team/team.html
 
+.. figure:: /images/team/team-1.png
+	:alt: team
+	:figwidth: 100%
+	:width: 35%
+	:align: left
+
 ------
 
 .. figure:: /images/team/xenophileLogo.jpg
 	:alt: ocadu logo
-	:figwidth: 100%
+	:figwidth: 10%
 	:width: 75px
 	:align: left
 
 Xenophile Media, Toronto
-----------------------------
+--------------------------------------------------
 
 `Patrick Crowe`_ |
 `Alex Mayhew`_
@@ -26,12 +33,12 @@ Xenophile Media, Toronto
 
 .. figure:: /images/team/OCAD_Logo.jpg
 	:alt: ocadu logo
-	:figwidth: 100%
+	:figwidth: 10%
 	:width: 75px
 	:align: left
 
 OCAD University, Toronto
-----------------------------
+--------------------------------------------------
 
 `Sara Diamond`_ |
 `Adam Tindale`_ | 
@@ -49,11 +56,12 @@ OCAD University, Toronto
 .. _Ryan Maksymic: ryan.html
 .. _Takis Zourntos: takis.html
 
+
 ------
 
 .. figure:: /images/team/anhembiLogo.jpg
 	:alt: ocadu logo
-	:figwidth: 100%
+	:figwidth: 10%
 	:width: 75px
 	:align: left
 
@@ -65,6 +73,7 @@ Anhembi Morumbi University & Zuanon Projectos Visuais, S |atilde| o Paulo, Brazi
 .. _Rachel Zuanon: rachel.html
 .. |atilde|   unicode:: U+00E3 .. a tilde
 	:trim:
+
 
 
 

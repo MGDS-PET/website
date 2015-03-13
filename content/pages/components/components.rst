@@ -5,10 +5,10 @@ Components
 :url: pages/components/components
 :save_as: pages/components/components.html
 
-.. figure:: /images/components/componentsGraph-1.png
+.. figure:: /images/components/components-1.png
 	:alt: components
 	:figwidth: 100%
-	:width: 40%
+	:width: 50%
 	:align: left
 
 Components are built from a variety of materials, for a variety of functions. Their was some material experimentation and exploration at the beginning of the project, which tended to decrease as the project developed. What components all have in common is the potential to be part of wrist-worn devices, to be durable and suitable for daily wear, to be beautiful and have interesting aesthetic qualities, and to be able to contain a variety of electronic components. 
