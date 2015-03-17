@@ -57,7 +57,7 @@ MENUITEMS = [
 	('Blog', '/category/blog.html'), #dynamic = articles
 	('Research', '/pages/research/research.html'),
 	('Components', '/pages/components/components.html'), #static = pages
-	('Devices', '/pages/devices/devices.html'),
+	('Prototypes', '/pages/prototypes/prototypes.html'),
 	#('Reports', '/pages/reports/reports.html'),
 	('Team', '/pages/team/team.html')
 ]  
@@ -74,7 +74,7 @@ DEFAULT_DATE = 'fs'
 TYPOGRIFY = True
 THEME = 'themes/bootstrap' 
 BOOTSTRAP_THEME = 'yeti' #others available 'cosmo' etc. all included already. See http://bootswatch.com/
-CUSTOM_CSS = 'theme/css/custom.css' #where Pelican should put the custom css file
+CUSTOM_CSS = 'theme/css/custom.css' #specify where Pelican puts the custom css file
 
 # Tell Pelican to change the path to 'theme/css/custom.css' in the output dir
 # EXTRA_PATH_METADATA = {

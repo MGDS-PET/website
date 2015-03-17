@@ -1,29 +1,26 @@
-Early Felt Vibrotactile Devices
+3D Printed Devices
 ============================================
 
-:slug: earlyFelt
-:url: pages/devices/early/earlyFelt
-:save_as: pages/devices/early/earlyFelt.html
+:slug: 3Dprinted
+:url: pages/prototypes/early/3Dprinted
+:save_as: pages/prototypes/early/3Dprinted.html
 
-.. image:: /images/devices/early/felt/P1130399.RW2.jpg
-	:alt: early felt device 1
+.. image:: /images/prototypes/early/3Dprinted/P1130894.jpg
+	:alt: 3D printed device 1
 	:width: 25%
 
-.. image:: /images/devices/early/felt/P1130374.RW2.jpg
-	:alt: early felt device 2
+.. image:: /images/prototypes/early/3Dprinted/P1130873.jpg
+	:alt: 3D printed device 2
 	:width: 25%
 
 .. contents::
 
 .. sectnum::
-	:depth: 2
+	:depth: 3
 
 
 Description
 --------------------------------------------------
-
-These devices use felt for their band material. Felt has the advantage of being inexpensive, comfortable to wear next to the skin. 
-
 
 Design and research questions
 --------------------------------------------------
@@ -47,4 +44,3 @@ Discussion and results
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-

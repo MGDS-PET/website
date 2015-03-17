@@ -3,18 +3,18 @@ New Felt Band
 
 
 :slug: laterFelt
-:url: pages/devices/later/newFelt
-:save_as: pages/devices/later/newFelt.html
+:url: pages/prototypes/later/newFelt
+:save_as: pages/prototypes/later/newFelt.html
 
-.. image:: /images/devices/later/newFelt/newFelt-1.png
+.. image:: /images/prototypes/later/newFelt/newFelt-1.png
 	:alt: later felt device 1
 	:width: 15%
 
-.. image:: /images/devices/later/newFelt/newFelt-2.png
+.. image:: /images/prototypes/later/newFelt/newFelt-2.png
 	:alt: later felt device 2
 	:width: 15%
 
-.. image:: /images/devices/later/newFelt/newFelt-3.png
+.. image:: /images/prototypes/later/newFelt/newFelt-3.png
 	:alt: later felt device 2
 	:width: 15%
 

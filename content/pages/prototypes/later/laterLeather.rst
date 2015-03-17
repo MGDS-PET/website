@@ -2,14 +2,14 @@ Later Leather Vibrotactile Band
 ============================================
 
 :slug: laterLeather
-:url: pages/devices/later/laterLeather
-:save_as: pages/devices/later/laterLeather.html
+:url: pages/prototypes/later/laterLeather
+:save_as: pages/prototypes/later/laterLeather.html
 
-.. image:: /images/devices/later/leather/P1130386.RW2.jpg
+.. image:: /images/prototypes/later/leather/P1130386.RW2.jpg
 	:alt: later leather device 1
 	:width: 25%
 
-.. image:: /images/devices/later/leather/P1130386.RW2.jpg
+.. image:: /images/prototypes/later/leather/P1130386.RW2.jpg
 	:alt: later leather device 2
 	:width: 25%
 

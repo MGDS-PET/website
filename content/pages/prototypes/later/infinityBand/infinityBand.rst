@@ -2,18 +2,18 @@ Infinity Band
 ==================================================
 
 :slug: infinityBand
-:url: pages/devices/later/infinityBand
-:save_as: pages/devices/later/infinityBand.html
+:url: pages/prototypes/later/infinityBand
+:save_as: pages/prototypes/later/infinityBand.html
 
-.. image:: /images/devices/later/infinityBand/P1140028.JPG
+.. image:: /images/prototypes/later/infinityBand/P1140028.JPG
 	:alt: infinity band 1
 	:width: 25%
 
-.. image:: /images/devices/later/infinityBand/P1140029.JPG
+.. image:: /images/prototypes/later/infinityBand/P1140029.JPG
 	:alt: infinity band 2
 	:width: 25%
 
-.. image:: /images/devices/later/infinityBand/P1140030-003.JPG
+.. image:: /images/prototypes/later/infinityBand/P1140030-003.JPG
 	:alt: infinity band components
 	:width: 25%
 
@@ -171,7 +171,7 @@ System integration: aggregating sensor data
 Visual Resources and Inspiration
 --------------------------------------------------
 
-.. figure:: /images/devices/later/infinityBand/Page_1.jpg
+.. figure:: /images/prototypes/later/infinityBand/Page_1.jpg
 	:alt: infinity band page 1
 	:figwidth: 32%
 
@@ -179,7 +179,7 @@ Visual Resources and Inspiration
 
 -------
 
-.. figure:: /images/devices/later/infinityBand/Page_2.jpg
+.. figure:: /images/prototypes/later/infinityBand/Page_2.jpg
 	:alt: infinity band page 2
 	:figwidth: 32%
 
@@ -187,7 +187,7 @@ Visual Resources and Inspiration
 
 -------
 
-.. figure:: /images/devices/later/infinityBand/Page_3.jpg
+.. figure:: /images/prototypes/later/infinityBand/Page_3.jpg
 	:alt: infinity band page 3
 	:figwidth: 32%
 
@@ -195,7 +195,7 @@ Visual Resources and Inspiration
 
 -------
 
-.. figure:: /images/devices/later/infinityBand/Page_4.jpg
+.. figure:: /images/prototypes/later/infinityBand/Page_4.jpg
 	:alt: infinity band page 4
 	:figwidth: 32%
 
@@ -203,7 +203,7 @@ Visual Resources and Inspiration
 
 -------
 
-.. figure:: /images/devices/later/infinityBand/Page_5.jpg
+.. figure:: /images/prototypes/later/infinityBand/Page_5.jpg
 	:alt: infinity band page 5
 	:figwidth: 32%
 
@@ -211,7 +211,7 @@ Visual Resources and Inspiration
 
 -------
 
-.. figure:: /images/devices/later/infinityBand/Page_6.jpg
+.. figure:: /images/prototypes/later/infinityBand/Page_6.jpg
 	:alt: infinity band page 6
 	:figwidth: 32%
 
@@ -219,7 +219,7 @@ Visual Resources and Inspiration
 
 -------
 
-.. figure:: /images/devices/later/infinityBand/Page_7.jpg
+.. figure:: /images/prototypes/later/infinityBand/Page_7.jpg
 	:alt: infinity band page 7
 	:figwidth: 32%
 
@@ -227,7 +227,7 @@ Visual Resources and Inspiration
 
 -------
 
-.. figure:: /images/devices/later/infinityBand/Page_8.jpg
+.. figure:: /images/prototypes/later/infinityBand/Page_8.jpg
 	:alt: infinity band page 8
 	:figwidth: 32%
 
@@ -235,7 +235,7 @@ Visual Resources and Inspiration
 
 -------
 
-.. figure:: /images/devices/later/infinityBand/Page_9.jpg
+.. figure:: /images/prototypes/later/infinityBand/Page_9.jpg
 	:alt: infinity band page 9
 	:figwidth: 32%
 

@@ -1,12 +1,11 @@
-Devices
+Prototypes
 ==================================================
 
+:slug: prototypes
+:url: pages/prototypes/prototypes
+:save_as: pages/prototypes/prototypes.html
 
-:slug: devices
-:url: pages/devices/devices
-:save_as: pages/devices/devices.html
-
-.. figure:: /images/devices/devices-1.png
+.. figure:: /images/prototypes/devices-1.png
 	:alt: devices
 	:figwidth: 100%
 	:width: 55%

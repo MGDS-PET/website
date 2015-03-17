@@ -10,7 +10,7 @@ digraph G  {
 
 	Question->Prototype [label=" leads to"]
 	Prototype->Prototype [label=" next iteration"]
-	Prototype->{Answer Idea} [label=" leads to"]
-	Answer->Question
+	Prototype->{Result Idea} [label=" leads to"]
+	Result->Question
 	Idea->Question
 }

@@ -1,16 +1,16 @@
-Fabric Vibrotactile Devices
+Bead Light & Vibrotactile Devices
 ============================================
 
-:slug: fabric
-:url: pages/devices/early/fabric
-:save_as: pages/devices/early/fabric.html
+:slug: bead
+:url: pages/prototypes/early/bead
+:save_as: pages/prototypes/early/bead.html
 
-.. image:: /images/devices/early/fabric/P1130871.jpg
-	:alt: fabric device 1
+.. image:: /images/prototypes/early/bead/P1130856.JPG
+	:alt: bead device 1
 	:width: 25%
 
-.. image:: /images/devices/early/fabric/P1130871.jpg
-	:alt: fabric device 2
+.. image:: /images/prototypes/early/bead/P1130831.JPG
+	:alt: bead device 2
 	:width: 25%
 
 .. contents::
@@ -41,6 +41,7 @@ Actor: content creator
 
 Discussion and results
 --------------------------------------------------
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 

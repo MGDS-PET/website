@@ -1,26 +1,29 @@
-Bead Light & Vibrotactile Devices
+Early Felt Vibrotactile Devices
 ============================================
 
-:slug: bead
-:url: pages/devices/early/bead
-:save_as: pages/devices/early/bead.html
+:slug: earlyFelt
+:url: pages/prototypes/early/earlyFelt
+:save_as: pages/prototypes/early/earlyFelt.html
 
-.. image:: /images/devices/early/bead/P1130856.JPG
-	:alt: bead device 1
+.. image:: /images/prototypes/early/felt/P1130399.RW2.jpg
+	:alt: early felt device 1
 	:width: 25%
 
-.. image:: /images/devices/early/bead/P1130831.JPG
-	:alt: bead device 2
+.. image:: /images/prototypes/early/felt/P1130374.RW2.jpg
+	:alt: early felt device 2
 	:width: 25%
 
 .. contents::
 
 .. sectnum::
-	:depth: 3
+	:depth: 2
 
 
 Description
 --------------------------------------------------
+
+These prototypes use felt for their band material. Felt has the advantage of being inexpensive, comfortable to wear next to the skin. 
+
 
 Design and research questions
 --------------------------------------------------
