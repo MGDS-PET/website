@@ -11,11 +11,9 @@ Prototypes
 	:width: 55%
 	:align: left
 
+|
 
-Early Vibrotactile Bracelets
---------------------------------------------------
-
-
+**Early Vibrotactile Bracelets**
 `Early Rubber`_ |
 `Early Felt`_ |
 `3D Printed`_ |
@@ -30,10 +28,7 @@ Fabric_
 .. _Fabric: early/fabric.html
 
 
-Felt and Leather Bluetooth-enabled Bracelets
---------------------------------------------------
-
-
+**Felt and Leather Bluetooth-enabled Bracelets**
 `New Felt`_ |
 `Later Leather`_ |
 `Infinity Band`_
@@ -46,8 +41,7 @@ Felt and Leather Bluetooth-enabled Bracelets
 ------
 
 
-Sample Diagrams
---------------------------------------------------
+**Sample Diagrams**
 
 `Sample Diagrams <sampleDiagrams.html>`_
 

@@ -16,50 +16,10 @@ Research Questions
 	Preliminary taxonomy of research questions.
 
 
-Design of device
+Research challenges in this project?
 --------------------------------------------------
 
-Use Cases and Functions
-..................................................
-
-
-
-User interaction
-..................................................
-
-
-
-Materials
-..................................................
-
-
-
-Components
-..................................................
-
-
-
-Configuration
-..................................................
-
-
-
-#. What are the basic use cases for a transmedia mobile device that has biometric sensors?
-	- Register user's position and orientation
-	- Register hand and arm movements
-	- Record user's heart rate and changes to their heart rate
-	- Record galvanic skin response
-	- Provide a marker for current position in the smartphone game narrative
-
-#. What are suitable materials for a device of this type?
-	- ADD HERE
-
-
-
-ISTP Grant
---------------------------------------------------
-
-#. According to the grant, what are the main research challenges in this project?
+#. According to the funding grants (NSERC/ISTP), what are the main research challenges in this project?
 	- building wearable game technologies
 	- developing game biometric interfaces
 	- creating a multi-platform game distribution system
@@ -85,8 +45,36 @@ ISTP Grant
 	- Direct narrative flow of the gameplay via reactions from the player as measured by the biometric sensors
 
 
-
-NSERC Grant
+Design of device?
 --------------------------------------------------
+
+#. Use Cases and Functions
+	- ADD HERE
+
+#. User interaction
+	- ADD HERE
+
+#. Materials
+	- ADD HERE
+
+#. Components
+	- ADD HERE
+
+#. Configuration
+	- ADD HERE
+
+#. What are the basic use cases for a transmedia mobile device that has biometric sensors?
+	- Register user's position and orientation
+	- Register hand and arm movements
+	- Record user's heart rate and changes to their heart rate
+	- Record galvanic skin response
+	- Provide a marker for current position in the smartphone game narrative
+
+#. What are suitable materials for a device of this type?
+	- ADD HERE
+
+
+
+
 
 

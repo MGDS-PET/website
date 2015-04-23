@@ -13,23 +13,21 @@ Components
 
 Components are built from a variety of materials, for a variety of functions. Their was some material experimentation and exploration at the beginning of the project, which tended to decrease as the project developed. What components all have in common is the potential to be part of wrist-worn devices, to be durable and suitable for daily wear, to be beautiful and have interesting aesthetic qualities, and to be able to contain a variety of electronic components. 
 
+|
 
-Bands
---------------------------------------------------
-
-**Early Band Designs:** 
+**Bands**
+Early Band Designs:
 Rubber_ |
 Felt_ |
 `3D Printed Bands`_ 
 
-
-**Bands using Conductive Materials:**
+Bands using Conductive Materials:
 `Conductive Thread`_ | 
 `Conductive Thread with 3D components`_ |
 `Conductive Fabric`_ 
 
 
-**Leather Bands:**
+Leather Bands:
 Leather_ |
 `Etched Leather`_ |
 `Laser Cut Leather`_
@@ -47,9 +45,7 @@ Leather_ |
 .. Resin molded bead with glitter, LED and vibrating motor.
 
 
-Beads
---------------------------------------------------
-
+**Beads**
 `Early Resin`_ |
 `Later Resin`_ |
 `Moulded Clay`_
@@ -59,17 +55,13 @@ Beads
 .. _Moulded Clay: beads/mouldedClay.html
 
 
-Cases & Enclosures
---------------------------------------------------
-
+**Cases & Enclosures**
 `3D Printed Cases`_
 
 .. _3D Printed Cases: cases/3DprintedCases.html
 
 
-Electronics
---------------------------------------------------
-
+**Electronics**
 `LightBlue Bean`_ |
 `Arduino Microprocessors`_ |
 `Addressable LEDs`_ |

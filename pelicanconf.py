@@ -55,8 +55,8 @@ MENUITEMS = [
 #('Home', '/'), #not needed
 #mixing dynamic and static content in menu:
 	('Blog', '/category/blog.html'), #dynamic = articles
-	('Research', '/pages/research/research.html'),
-	('Components', '/pages/components/components.html'), #static = pages
+	('Research', '/pages/research/research.html'), #static = pages
+	('Components', '/pages/components/components.html'), 
 	('Prototypes', '/pages/prototypes/prototypes.html'),
 	#('Reports', '/pages/reports/reports.html'),
 	('Team', '/pages/team/team.html')
