@@ -59,7 +59,9 @@ MENUITEMS = [
 	('Components', '/pages/components/components.html'), 
 	('Prototypes', '/pages/prototypes/prototypes.html'),
 	#('Reports', '/pages/reports/reports.html'),
-	('Team', '/pages/team/team.html')
+	('Team', '/pages/team/team.html'),
+	('A', '/pages/paperA.html'),
+	('B', '/pages/paperB.html')
 ]  
 
 #SITELOGO = 'images/favicon.ico'
