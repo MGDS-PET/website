@@ -1,4 +1,4 @@
-Paper B: Design Processes with Changing Requirements Containing Cycles
+Paper B: Collaborative Design Processes involving Sub-teams
 ======================================================================
 
 :slug: paperB
@@ -13,9 +13,20 @@ Multi-disciplinary design team processes are required to design complex artifact
 Introduction
 --------------------------------------------------
 
-This paper describes research that involves the design of a wrist-wearable device. There were several teams involved in the design, which have specialized expertise in diverse fields such as hardware engineering suitable for wearables, software that runs on this hardware, material and industrial design, game design, user interaction design, marketing research and market positioning for the device. These teams could talk easily amongst themselves in the specialized lexicons and conceptual underpinnings of their various domains. 
+This paper describes research that involves the design of a wrist-wearable device. There were several teams involved in the design, which have specialized expertise in diverse fields such as hardware engineering suitable for wearables, software for this hardware, material and industrial design, game design, user interaction design, marketing research and market positioning for the device. These fields are quite complex and the people working within them tend to specialize. This means that team members within a sub-group can talk easily amongst themselves in the specialized lexicons and conceptual underpinnings of their specific domains. However, the project involves designing a device in which all its constituent systems work together happily. The 'top-level' domain may be a wrist wearable that interacts with smartphone-available content, yet this domain is not well-established and may be completely new in some aspects. The sub-domains, such as hardware engineering, are much better established than this so-called top-level one. But the overall innovation is the combining of various sub-disciplines into a unified whole. The bottom line is that the constituent parts and sub-systems of the device must work together well. 
 
-Design requirements
+Managing and navigating such a situation is an issue that transcends established domains. But it is a common enough situation. Most complex, manufactured devices have similar issues: their innovation is derived in part by the integration of diverse domains into a single device, or into a new category of device which may or may not be successful, or find a market. Our device is such a device. 
+
+Several questions arise from such collaborative design situations:
+
+- what are the sub-domains, or natural groupings of expertise required to design new types of devices?
+- is this composition of sub-domains dependent on particular design projects, or are there natural groupings that arise recurrently?
+- are the concerns within each sub-domain contained within it, or does it link to issues that cross boundaries between domains?
+- do team members, such as team leaders, want, or need to communicate between sub-domains?
+- is the 'interface' between sub-domains a natural phenomenon and easily discernible for people who must work between sub-domains?
+
+
+Design requirements for basic device
 --------------------------------------------------
 
 Design requirements are the starting point in most design processes, yet, design processes in which requirements are fixed and well-understood at the beginning are quite rare; design requirements often evolve over time and become part of the design process.  The designed artifact that results can be tested as to how well it satisfies these requirements. Things become a little more complex when the design requirements themselves are dependent on results from a design process. This creates circular dependencies between design requirements and design results. This paper describes the nature of these circular dependencies in the design process of a wearable wrist device intended for wearer interaction within transmedia narratives.
