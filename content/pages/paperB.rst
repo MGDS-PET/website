@@ -7,10 +7,19 @@ Paper B: Design Processes with Changing Requirements Containing Cycles
 
 Abstract
 --------------------------------------------------
-Design requirements are the starting point in most design processes, yet, design processes in which requirements are fixed and well-understood at the beginning are quite rare; design requirement often evolve over time and become part of the design process.  The designed artifact that results can be tested as to how well it satisfies these requirements. Things become a little more complex when the design requirements themselves are dependent on results from a design process. This creates circular dependencies between design requirements and design results. This paper describes the nature of these circular dependencies in the design process of a wearable wrist device intended for wearer interaction within transmedia narratives. 
 
-Initial requirements
+Multi-disciplinary design team processes are required to design complex artifacts that span various areas of expertise. It is difficult to arrive at integrated understandings of what the final design should be because of the diversity of the design team. Design team members might have a detailed conception of a sub-section or module on which they're working, but may lack an overall conception of what the whole should be like. Diversity, which is so useful in solving specialized problems in specific domains, makes communication on a unified level difficult. This paper discusses aspects of the question whether unified conceptions of complex devices that span between disciplines are required, or possible, when designing complex devices.
+
+Introduction
 --------------------------------------------------
+
+This paper describes research that involves the design of a wrist-wearable device. There were several teams involved in the design, which have specialized expertise in diverse fields such as hardware engineering suitable for wearables, software that runs on this hardware, material and industrial design, game design, user interaction design, marketing research and market positioning for the device. These teams could talk easily amongst themselves in the specialized lexicons and conceptual underpinnings of their various domains. 
+
+Design requirements
+--------------------------------------------------
+
+Design requirements are the starting point in most design processes, yet, design processes in which requirements are fixed and well-understood at the beginning are quite rare; design requirements often evolve over time and become part of the design process.  The designed artifact that results can be tested as to how well it satisfies these requirements. Things become a little more complex when the design requirements themselves are dependent on results from a design process. This creates circular dependencies between design requirements and design results. This paper describes the nature of these circular dependencies in the design process of a wearable wrist device intended for wearer interaction within transmedia narratives.
+
 
 The main requirements for the wearable device are (see also: `Haptic Pattern Representation using Music Technologies` [link_]):
 
@@ -55,6 +64,10 @@ The opposite of an interdependent wicked-type problem are ones in which systems 
 - gaming components
 - enclosure components (that are worn on the wrist)
 - fashion components 
+
+These components are not independent
+
+
 
 
 
